@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q.4-1",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014822', '18207763', '9221498906', '998766909', '187849887', '1022537751', '1657588646', '178546997#0', '12772169418', '178546997#1', '688976809', '739432137', '688976796', '1055385046', '1810110100', '1055385047', '688976794', '799590949', '9697606396', '1055385049', '9697606397', '1055385048', '688976788']"
+  },
+  {
+    "id": "Q.4-2",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014822', '18207763', '9221498906', '998766909', '187849887', '1022537751', '1657588646', '178546997#0', '12772169418', '178546997#1', '688976809', '739432138', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '925592809', '688976816', '1016174109', '1657579450', '18208202#0', '902014776', '18208202#1', '902014785', '118479814', '877830030']"
+  },
+  {
+    "id": "Q.4-3",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014822', '118479856', '902014909']"
+  },
+  {
+    "id": "Q.4-4",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014822', '18207763', '9221498906', '998766909', '187849887', '1022537751', '1657588646', '178546997#0', '12772169418', '178546997#1', '688976809', '739432138', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '1055614396', '1657588659', '1055614397', '8864476450', '1055614398#0', '7630060387', '1055614398#1', '688976829', '1055614400#0', '7630060386', '1055614400#1', '688976833', '1055614401', '9699838342', '1055614402', '9699838343', '54725259#0', '3394767255', '54725259#1', '716319431']"
+  },
+  {
+    "id": "Q.4-5",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['688976791', '1344375759', '12437267834', '1344375761', '688976799', '290457949', '688976797', '699832320', '8864476444', '990458792', '9152290363', '990458793#0', '12772169416', '990458793#1', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '925592809', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432137', '688976796', '1055385046', '1810110100', '1055385047', '688976794', '799590949', '9697606396', '1055385049', '9697606397', '1055385048', '688976788']"
+  },
+  {
+    "id": "Q.4-6",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['688976791', '1344375759', '12437267834', '1344375761', '688976799', '290457949', '688976797', '699832320', '8864476444', '990458792', '9152290363', '990458793#0', '12772169416', '990458793#1', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '925592809', '688976816', '1016174109', '1657579450', '18208202#0', '902014776', '18208202#1', '902014785', '118479814', '877830030']"
+  },
+  {
+    "id": "Q.4-7",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['688976791', '1344375759', '12437267834', '1344375761', '688976799', '290457949', '688976797', '699832320', '8864476444', '990458792', '9152290363', '990458793#0', '12772169416', '990458793#1', '688976803', '637589292', '3063751616', '1202724756', '3063751617', '1121975788', '187851417', '18207974#0', '1888749448', '18207974#1', '902014909']"
+  },
+  {
+    "id": "Q.4-8",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['688976791', '1344375759', '12437267834', '1344375761', '688976799', '290457949', '688976797', '699832320', '8864476444', '990458792', '9152290363', '990458793#0', '12772169416', '990458793#1', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '1055614396', '1657588659', '1055614397', '8864476450', '1055614398#0', '7630060387', '1055614398#1', '688976829', '1055614400#0', '7630060386', '1055614400#1', '688976833', '1055614401', '9699838342', '1055614402', '9699838343', '54725259#0', '3394767255', '54725259#1', '716319431']"
+  },
+  {
+    "id": "Q.4-9",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['716319398', '290451895#0', '3394767254', '290451895#1', '688976831', '1055612366', '9699833968', '1055612367#0', '7630060389', '1055612367#1', '688976826', '1055612368#0', '7630060388', '1055612368#1', '9699833969', '1055612369', '9699833970', '1055612370', '9699833971', '1055612371', '688976813', '635760563#0', '12772169413', '635760563#1', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432137', '688976796', '1055385046', '1810110100', '1055385047', '688976794', '799590949', '9697606396', '1055385049', '9697606397', '1055385048', '688976788']"
+  },
+  {
+    "id": "Q.4-10",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['716319398', '290451895#0', '3394767254', '290451895#1', '688976831', '1055612366', '9699833968', '1055612367#0', '7630060389', '1055612367#1', '688976826', '1055612368#0', '7630060388', '1055612368#1', '9699833969', '1055612369', '9699833970', '1055612370', '9699833971', '1055612371', '688976813', '635760563#0', '12772169413', '635760563#1', '688976816', '1016174109', '1657579450', '18208202#0', '902014776', '18208202#1', '902014785', '118479814', '877830030']"
+  },
+  {
+    "id": "Q.4-11",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['716319398', '290451895#0', '3394767254', '290451895#1', '688976831', '1055612366', '9699833968', '1055612367#0', '7630060389', '1055612367#1', '688976826', '1055612368#0', '7630060388', '1055612368#1', '9699833969', '1055612369', '9699833970', '1055612370', '9699833971', '1055612371', '688976813', '635760563#0', '12772169413', '635760563#1', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432138', '688976803', '637589292', '3063751616', '1202724756', '3063751617', '1121975788', '187851417', '18207974#0', '1888749448', '18207974#1', '902014909']"
+  },
+  {
+    "id": "Q.4-12",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['716319398', '290451895#0', '3394767254', '290451895#1', '688976831', '1055612366', '9699833968', '1055612367#0', '7630060389', '1055612367#1', '688976826', '1055612368#0', '7630060388', '1055612368#1', '9699833969', '1055612369', '9699833970', '1055612370', '9699833971', '1055612371', '688976813', '635760563#0', '12772169413', '635760563#1', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432138', '688976803', '637589293', '3749262226', '54725269#0', '12772169415', '54725269#1', '688976822', '925592808', '187849253', '1055614396', '1657588659', '1055614397', '8864476450', '1055614398#0', '7630060387', '1055614398#1', '688976829', '1055614400#0', '7630060386', '1055614400#1', '688976833', '1055614401', '9699838342', '1055614402', '9699838343', '54725259#0', '3394767255', '54725259#1', '716319431']"
+  },
+  {
+    "id": "Q.4-13",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014940', '76535448', '902014953', '18207686', '9157617655', '991133895', '1888749458', '178547037', '1657588647', '637589290#0', '12772169414', '637589290#1', '187849253', '925592809', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432137', '688976796', '1055385046', '1810110100', '1055385047', '688976794', '799590949', '9697606396', '1055385049', '9697606397', '1055385048', '688976788']"
+  },
+  {
+    "id": "Q.4-14",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014940', '76535448', '902014953', '118479819', '902014785', '118479814', '877830030']"
+  },
+  {
+    "id": "Q.4-15",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014940', '76535448', '902014953', '18207686', '9157617655', '991133895', '1888749458', '178547037', '1657588647', '637589290#0', '12772169414', '637589290#1', '187849253', '925592809', '688976816', '637589289', '688976820', '54725268#0', '12772169417', '54725268#1', '688976810', '54725263', '688976809', '739432138', '688976803', '637589292', '3063751616', '1202724756', '3063751617', '1121975788', '187851417', '18207974#0', '1888749448', '18207974#1', '902014909']"
+  },
+  {
+    "id": "Q.4-16",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902014940', '76535448', '902014953', '18207686', '9157617655', '991133895', '1888749458', '178547037', '1657588647', '637589290#0', '12772169414', '637589290#1', '187849253', '1055614396', '1657588659', '1055614397', '8864476450', '1055614398#0', '7630060387', '1055614398#1', '688976829', '1055614400#0', '7630060386', '1055614400#1', '688976833', '1055614401', '9699838342', '1055614402', '9699838343', '54725259#0', '3394767255', '54725259#1', '716319431']"
+  },
+  {
+    "id": "Q.4-17",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.4-18",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902015139', '76535451', '902014776', '18208202#1', '902014785', '118479814', '877830030']"
+  },
+  {
+    "id": "Q.4-19",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.4-20",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.4-21",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.4-22",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.4-23",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "['902015203', '76535453', '1888749448', '18207974#1', '902014909']"
+  },
+  {
+    "id": "Q.4-24",
+    "question": "What is the shortest path (by length) from the junction with id 9699838343 to the junction with id 9699838343? List the edges and junctions in order. <Answer> [edge, junction, edge, junction, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  }
+]

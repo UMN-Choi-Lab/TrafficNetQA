@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q.5-1",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014822 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "906.15"
+  },
+  {
+    "id": "Q.5-2",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014822 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1442.53"
+  },
+  {
+    "id": "Q.5-3",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014822 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1305.14"
+  },
+  {
+    "id": "Q.5-4",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014822 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1104.47"
+  },
+  {
+    "id": "Q.5-5",
+    "question": "What is the shortest path distance (by length) from the junction with id 688976791 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "837.78"
+  },
+  {
+    "id": "Q.5-6",
+    "question": "What is the shortest path distance (by length) from the junction with id 688976791 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1136.26"
+  },
+  {
+    "id": "Q.5-7",
+    "question": "What is the shortest path distance (by length) from the junction with id 688976791 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1005.86"
+  },
+  {
+    "id": "Q.5-8",
+    "question": "What is the shortest path distance (by length) from the junction with id 688976791 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "798.2"
+  },
+  {
+    "id": "Q.5-9",
+    "question": "What is the shortest path distance (by length) from the junction with id 716319398 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "796.07"
+  },
+  {
+    "id": "Q.5-10",
+    "question": "What is the shortest path distance (by length) from the junction with id 716319398 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1094.55"
+  },
+  {
+    "id": "Q.5-11",
+    "question": "What is the shortest path distance (by length) from the junction with id 716319398 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1202.05"
+  },
+  {
+    "id": "Q.5-12",
+    "question": "What is the shortest path distance (by length) from the junction with id 716319398 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "994.39"
+  },
+  {
+    "id": "Q.5-13",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014940 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1342.6"
+  },
+  {
+    "id": "Q.5-14",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014940 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1639.68"
+  },
+  {
+    "id": "Q.5-15",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014940 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1748.58"
+  },
+  {
+    "id": "Q.5-16",
+    "question": "What is the shortest path distance (by length) from the junction with id 902014940 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1303.02"
+  },
+  {
+    "id": "Q.5-17",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015139 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.5-18",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015139 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "591.87"
+  },
+  {
+    "id": "Q.5-19",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015139 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.5-20",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015139 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.5-21",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015203 to the junction with id 688976788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.5-22",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015203 to the junction with id 877830030? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.5-23",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015203 to the junction with id 902014909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "269.55"
+  },
+  {
+    "id": "Q.5-24",
+    "question": "What is the shortest path distance (by length) from the junction with id 902015203 to the junction with id 716319431? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  }
+]

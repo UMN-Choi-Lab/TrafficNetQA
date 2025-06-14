@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q.6-1",
+    "question": "Assuming the way with id 1055385049 is removed, what is the shortest path (by length) from the node with id 902014822 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-2",
+    "question": "Assuming the way with id 178546997#1 is removed, what is the shortest path (by length) from the node with id 902014822 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-3",
+    "question": "Assuming the way with id 54725259#0 is removed, what is the shortest path (by length) from the node with id 902014822 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-4",
+    "question": "Assuming the way with id 1055385046 is removed, what is the shortest path (by length) from the node with id 688976791 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-5",
+    "question": "Assuming the way with id 18208202#0 is removed, what is the shortest path (by length) from the node with id 688976791 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-6",
+    "question": "Assuming the way with id 18207974#0 is removed, what is the shortest path (by length) from the node with id 688976791 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-7",
+    "question": "Assuming the way with id 1055614397 is removed, what is the shortest path (by length) from the node with id 688976791 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-8",
+    "question": "Assuming the way with id 635760563#0 is removed, what is the shortest path (by length) from the node with id 716319398 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-9",
+    "question": "Assuming the way with id 1055612371 is removed, what is the shortest path (by length) from the node with id 716319398 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-10",
+    "question": "Assuming the way with id 1055612369 is removed, what is the shortest path (by length) from the node with id 716319398 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-11",
+    "question": "Assuming the way with id 1055612370 is removed, what is the shortest path (by length) from the node with id 716319398 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-12",
+    "question": "Assuming the way with id 991133895 is removed, what is the shortest path (by length) from the node with id 902014940 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-13",
+    "question": "Assuming the way with id 118479819 is removed, what is the shortest path (by length) from the node with id 902014940 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535448', '18207686', '991133895', '178547037', '637589290#0', '637589290#1', '925592809', '1016174109', '18208202#0', '18208202#1', '118479814']"
+  },
+  {
+    "id": "Q.6-14",
+    "question": "Assuming the way with id 18207974#0 is removed, what is the shortest path (by length) from the node with id 902014940 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-15",
+    "question": "Assuming the way with id 991133895 is removed, what is the shortest path (by length) from the node with id 902014940 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.6-16",
+    "question": "Assuming the way with id 18208202#1 is removed, what is the shortest path (by length) from the node with id 902015139 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  }
+]

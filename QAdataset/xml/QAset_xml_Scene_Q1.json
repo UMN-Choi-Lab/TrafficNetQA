@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.1-1",
+    "question": "List the junctions where the number of lanes decreases when moving from one edge to another. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['1657588647', '187851417', '187851417', '3749262226', '3749262226', '3749262226', '688976794', '688976799', '688976799', '688976799', '688976810', '688976813', '688976813', '688976826', '688976829', '688976833', '688976833', '688976833']"
+  }
+]

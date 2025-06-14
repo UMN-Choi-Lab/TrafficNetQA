@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.7-1",
+    "question": "List the edge pairs where the road speed limit changes when moving from one edge to another. <Answer> [edge1-edge2, edge3-edge4, ...]. Do not add any explanation.",
+    "ground_truth": "['E0-E19', 'E16-E4', 'E18-E9', 'E5-E17']"
+  }
+]

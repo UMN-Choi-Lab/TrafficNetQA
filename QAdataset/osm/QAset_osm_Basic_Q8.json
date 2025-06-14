@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.8-1",
+    "question": "Which ways are connected before and after the way with id 1016174109? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['635760563#1', '925592809'], after: ['18208202#0']"
+  },
+  {
+    "id": "Q.8-2",
+    "question": "Which ways are connected before and after the way with id 1022537751? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['998766909'], after: ['178546997#0']"
+  },
+  {
+    "id": "Q.8-3",
+    "question": "Which ways are connected before and after the way with id 1055385046? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['739432137'], after: ['1055385047']"
+  },
+  {
+    "id": "Q.8-4",
+    "question": "Which ways are connected before and after the way with id 1055385047? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055385046'], after: ['799590949']"
+  },
+  {
+    "id": "Q.8-5",
+    "question": "Which ways are connected before and after the way with id 1055385048? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055385049'], after: None"
+  },
+  {
+    "id": "Q.8-6",
+    "question": "Which ways are connected before and after the way with id 1055385049? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['799590949'], after: ['1055385048']"
+  },
+  {
+    "id": "Q.8-7",
+    "question": "Which ways are connected before and after the way with id 1055612366? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['290451895#1'], after: ['1055612367#0']"
+  },
+  {
+    "id": "Q.8-8",
+    "question": "Which ways are connected before and after the way with id 1055612367#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612366'], after: ['1055612367#1']"
+  },
+  {
+    "id": "Q.8-9",
+    "question": "Which ways are connected before and after the way with id 1055612367#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612367#0'], after: ['1055612368#0']"
+  },
+  {
+    "id": "Q.8-10",
+    "question": "Which ways are connected before and after the way with id 1055612368#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612367#1'], after: ['1055612368#1']"
+  },
+  {
+    "id": "Q.8-11",
+    "question": "Which ways are connected before and after the way with id 1055612368#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612368#0'], after: ['1055612369']"
+  },
+  {
+    "id": "Q.8-12",
+    "question": "Which ways are connected before and after the way with id 1055612369? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612368#1'], after: ['1055612370']"
+  },
+  {
+    "id": "Q.8-13",
+    "question": "Which ways are connected before and after the way with id 1055612370? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612369'], after: ['1055612371']"
+  },
+  {
+    "id": "Q.8-14",
+    "question": "Which ways are connected before and after the way with id 1055612371? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612370'], after: ['635760563#0']"
+  },
+  {
+    "id": "Q.8-15",
+    "question": "Which ways are connected before and after the way with id 1055614396? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589290#1', '925592808'], after: ['1055614397']"
+  },
+  {
+    "id": "Q.8-16",
+    "question": "Which ways are connected before and after the way with id 1055614397? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614396'], after: ['1055614398#0']"
+  },
+  {
+    "id": "Q.8-17",
+    "question": "Which ways are connected before and after the way with id 1055614398#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614397'], after: ['1055614398#1']"
+  },
+  {
+    "id": "Q.8-18",
+    "question": "Which ways are connected before and after the way with id 1055614398#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614398#0'], after: ['1055614400#0']"
+  },
+  {
+    "id": "Q.8-19",
+    "question": "Which ways are connected before and after the way with id 1055614400#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614398#1'], after: ['1055614400#1']"
+  },
+  {
+    "id": "Q.8-20",
+    "question": "Which ways are connected before and after the way with id 1055614400#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614400#0'], after: ['1055614401']"
+  },
+  {
+    "id": "Q.8-21",
+    "question": "Which ways are connected before and after the way with id 1055614401? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614400#1'], after: ['1055614402']"
+  },
+  {
+    "id": "Q.8-22",
+    "question": "Which ways are connected before and after the way with id 1055614402? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614401'], after: ['54725259#0']"
+  },
+  {
+    "id": "Q.8-23",
+    "question": "Which ways are connected before and after the way with id 1121975788? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1202724756'], after: ['18207974#0']"
+  },
+  {
+    "id": "Q.8-24",
+    "question": "Which ways are connected before and after the way with id 118479814? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['118479819', '18208202#1'], after: None"
+  },
+  {
+    "id": "Q.8-25",
+    "question": "Which ways are connected before and after the way with id 118479819? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['76535448'], after: ['118479814']"
+  },
+  {
+    "id": "Q.8-26",
+    "question": "Which ways are connected before and after the way with id 118479856? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: None"
+  },
+  {
+    "id": "Q.8-27",
+    "question": "Which ways are connected before and after the way with id 1202724756? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589292'], after: ['1121975788']"
+  },
+  {
+    "id": "Q.8-28",
+    "question": "Which ways are connected before and after the way with id 1344375759? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['1344375761']"
+  },
+  {
+    "id": "Q.8-29",
+    "question": "Which ways are connected before and after the way with id 1344375761? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1344375759'], after: ['290457949']"
+  },
+  {
+    "id": "Q.8-30",
+    "question": "Which ways are connected before and after the way with id 178546997#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1022537751'], after: ['178546997#1']"
+  },
+  {
+    "id": "Q.8-31",
+    "question": "Which ways are connected before and after the way with id 178546997#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['178546997#0'], after: ['739432137', '739432138']"
+  },
+  {
+    "id": "Q.8-32",
+    "question": "Which ways are connected before and after the way with id 178547037? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['991133895'], after: ['637589290#0']"
+  },
+  {
+    "id": "Q.8-33",
+    "question": "Which ways are connected before and after the way with id 18207686? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['76535448'], after: ['991133895']"
+  },
+  {
+    "id": "Q.8-34",
+    "question": "Which ways are connected before and after the way with id 18207763? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['998766909']"
+  },
+  {
+    "id": "Q.8-35",
+    "question": "Which ways are connected before and after the way with id 18207974#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1121975788'], after: ['18207974#1']"
+  },
+  {
+    "id": "Q.8-36",
+    "question": "Which ways are connected before and after the way with id 18207974#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['18207974#0', '76535453'], after: None"
+  },
+  {
+    "id": "Q.8-37",
+    "question": "Which ways are connected before and after the way with id 18208202#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1016174109'], after: ['18208202#1']"
+  },
+  {
+    "id": "Q.8-38",
+    "question": "Which ways are connected before and after the way with id 18208202#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['18208202#0', '76535451'], after: ['118479814']"
+  },
+  {
+    "id": "Q.8-39",
+    "question": "Which ways are connected before and after the way with id 290451895#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['290451895#1']"
+  },
+  {
+    "id": "Q.8-40",
+    "question": "Which ways are connected before and after the way with id 290451895#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['290451895#0'], after: ['1055612366']"
+  },
+  {
+    "id": "Q.8-41",
+    "question": "Which ways are connected before and after the way with id 290457949? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1344375761'], after: ['699832320']"
+  },
+  {
+    "id": "Q.8-42",
+    "question": "Which ways are connected before and after the way with id 54725259#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055614402'], after: ['54725259#1']"
+  },
+  {
+    "id": "Q.8-43",
+    "question": "Which ways are connected before and after the way with id 54725259#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['54725259#0'], after: None"
+  },
+  {
+    "id": "Q.8-44",
+    "question": "Which ways are connected before and after the way with id 54725263? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['54725268#1'], after: ['739432137', '739432138']"
+  },
+  {
+    "id": "Q.8-45",
+    "question": "Which ways are connected before and after the way with id 54725268#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589289'], after: ['54725268#1']"
+  },
+  {
+    "id": "Q.8-46",
+    "question": "Which ways are connected before and after the way with id 54725268#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['54725268#0'], after: ['54725263']"
+  },
+  {
+    "id": "Q.8-47",
+    "question": "Which ways are connected before and after the way with id 54725269#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589293'], after: ['54725269#1']"
+  },
+  {
+    "id": "Q.8-48",
+    "question": "Which ways are connected before and after the way with id 54725269#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['54725269#0'], after: ['925592808']"
+  },
+  {
+    "id": "Q.8-49",
+    "question": "Which ways are connected before and after the way with id 635760563#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055612371'], after: ['635760563#1']"
+  },
+  {
+    "id": "Q.8-50",
+    "question": "Which ways are connected before and after the way with id 635760563#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['635760563#0'], after: ['1016174109', '637589289']"
+  },
+  {
+    "id": "Q.8-51",
+    "question": "Which ways are connected before and after the way with id 637589289? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['635760563#1', '925592809'], after: ['54725268#0']"
+  },
+  {
+    "id": "Q.8-52",
+    "question": "Which ways are connected before and after the way with id 637589290#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['178547037'], after: ['637589290#1']"
+  },
+  {
+    "id": "Q.8-53",
+    "question": "Which ways are connected before and after the way with id 637589290#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589290#0'], after: ['1055614396', '925592809']"
+  },
+  {
+    "id": "Q.8-54",
+    "question": "Which ways are connected before and after the way with id 637589292? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['739432138', '990458793#1'], after: ['1202724756']"
+  },
+  {
+    "id": "Q.8-55",
+    "question": "Which ways are connected before and after the way with id 637589293? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['739432138', '990458793#1'], after: ['54725269#0']"
+  },
+  {
+    "id": "Q.8-56",
+    "question": "Which ways are connected before and after the way with id 699832320? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['290457949'], after: ['990458792']"
+  },
+  {
+    "id": "Q.8-57",
+    "question": "Which ways are connected before and after the way with id 739432137? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['178546997#1', '54725263'], after: ['1055385046']"
+  },
+  {
+    "id": "Q.8-58",
+    "question": "Which ways are connected before and after the way with id 739432138? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['178546997#1', '54725263'], after: ['637589292', '637589293']"
+  },
+  {
+    "id": "Q.8-59",
+    "question": "Which ways are connected before and after the way with id 76535448? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['118479819', '18207686']"
+  },
+  {
+    "id": "Q.8-60",
+    "question": "Which ways are connected before and after the way with id 76535451? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['18208202#1']"
+  },
+  {
+    "id": "Q.8-61",
+    "question": "Which ways are connected before and after the way with id 76535453? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['18207974#1']"
+  },
+  {
+    "id": "Q.8-62",
+    "question": "Which ways are connected before and after the way with id 799590949? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['1055385047'], after: ['1055385049']"
+  },
+  {
+    "id": "Q.8-63",
+    "question": "Which ways are connected before and after the way with id 925592808? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['54725269#1'], after: ['1055614396', '925592809']"
+  },
+  {
+    "id": "Q.8-64",
+    "question": "Which ways are connected before and after the way with id 925592809? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['637589290#1', '925592808'], after: ['1016174109', '637589289']"
+  },
+  {
+    "id": "Q.8-65",
+    "question": "Which ways are connected before and after the way with id 990458792? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['699832320'], after: ['990458793#0']"
+  },
+  {
+    "id": "Q.8-66",
+    "question": "Which ways are connected before and after the way with id 990458793#0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['990458792'], after: ['990458793#1']"
+  },
+  {
+    "id": "Q.8-67",
+    "question": "Which ways are connected before and after the way with id 990458793#1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['990458793#0'], after: ['637589292', '637589293']"
+  },
+  {
+    "id": "Q.8-68",
+    "question": "Which ways are connected before and after the way with id 991133895? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['18207686'], after: ['178547037']"
+  },
+  {
+    "id": "Q.8-69",
+    "question": "Which ways are connected before and after the way with id 998766909? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['18207763'], after: ['1022537751']"
+  }
+]

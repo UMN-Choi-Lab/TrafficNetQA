@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.3-1",
+    "question": "Considering the entire network, which ways can be regarded as highway entrances — that is, the ways immediately before entering a highway? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['18208202#1', '18207974#1']"
+  }
+]

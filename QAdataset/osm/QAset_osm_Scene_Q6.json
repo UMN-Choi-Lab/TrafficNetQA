@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.6-1",
+    "question": "How many highway exit ways are there in the network? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  }
+]

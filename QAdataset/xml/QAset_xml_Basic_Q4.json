@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.4-1",
+    "question": "Is the edge with id 1016174109 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-2",
+    "question": "Is the edge with id 1022537751 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-3",
+    "question": "Is the edge with id 1055385046 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-4",
+    "question": "Is the edge with id 1055385047 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-5",
+    "question": "Is the edge with id 1055385048 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-6",
+    "question": "Is the edge with id 1055385049 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-7",
+    "question": "Is the edge with id 1055612366 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-8",
+    "question": "Is the edge with id 1055612367#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-9",
+    "question": "Is the edge with id 1055612367#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-10",
+    "question": "Is the edge with id 1055612368#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-11",
+    "question": "Is the edge with id 1055612368#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-12",
+    "question": "Is the edge with id 1055612369 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-13",
+    "question": "Is the edge with id 1055612370 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-14",
+    "question": "Is the edge with id 1055612371 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-15",
+    "question": "Is the edge with id 1055614396 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-16",
+    "question": "Is the edge with id 1055614397 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-17",
+    "question": "Is the edge with id 1055614398#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-18",
+    "question": "Is the edge with id 1055614398#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-19",
+    "question": "Is the edge with id 1055614400#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-20",
+    "question": "Is the edge with id 1055614400#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-21",
+    "question": "Is the edge with id 1055614401 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-22",
+    "question": "Is the edge with id 1055614402 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-23",
+    "question": "Is the edge with id 1121975788 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-24",
+    "question": "Is the edge with id 118479814 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "yes"
+  },
+  {
+    "id": "Q.4-25",
+    "question": "Is the edge with id 118479819 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "yes"
+  },
+  {
+    "id": "Q.4-26",
+    "question": "Is the edge with id 118479856 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "yes"
+  },
+  {
+    "id": "Q.4-27",
+    "question": "Is the edge with id 1202724756 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-28",
+    "question": "Is the edge with id 1344375759 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-29",
+    "question": "Is the edge with id 1344375761 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-30",
+    "question": "Is the edge with id 178546997#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-31",
+    "question": "Is the edge with id 178546997#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-32",
+    "question": "Is the edge with id 178547037 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-33",
+    "question": "Is the edge with id 18207686 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-34",
+    "question": "Is the edge with id 18207763 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-35",
+    "question": "Is the edge with id 18207974#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-36",
+    "question": "Is the edge with id 18207974#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-37",
+    "question": "Is the edge with id 18208202#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-38",
+    "question": "Is the edge with id 18208202#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-39",
+    "question": "Is the edge with id 290451895#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-40",
+    "question": "Is the edge with id 290451895#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-41",
+    "question": "Is the edge with id 290457949 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-42",
+    "question": "Is the edge with id 54725259#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-43",
+    "question": "Is the edge with id 54725259#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-44",
+    "question": "Is the edge with id 54725263 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-45",
+    "question": "Is the edge with id 54725268#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-46",
+    "question": "Is the edge with id 54725268#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-47",
+    "question": "Is the edge with id 54725269#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-48",
+    "question": "Is the edge with id 54725269#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-49",
+    "question": "Is the edge with id 635760563#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-50",
+    "question": "Is the edge with id 635760563#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-51",
+    "question": "Is the edge with id 637589289 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-52",
+    "question": "Is the edge with id 637589290#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-53",
+    "question": "Is the edge with id 637589290#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-54",
+    "question": "Is the edge with id 637589292 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-55",
+    "question": "Is the edge with id 637589293 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-56",
+    "question": "Is the edge with id 699832320 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-57",
+    "question": "Is the edge with id 739432137 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-58",
+    "question": "Is the edge with id 739432138 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-59",
+    "question": "Is the edge with id 76535448 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "yes"
+  },
+  {
+    "id": "Q.4-60",
+    "question": "Is the edge with id 76535451 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-61",
+    "question": "Is the edge with id 76535453 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-62",
+    "question": "Is the edge with id 799590949 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-63",
+    "question": "Is the edge with id 925592808 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-64",
+    "question": "Is the edge with id 925592809 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-65",
+    "question": "Is the edge with id 990458792 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-66",
+    "question": "Is the edge with id 990458793#0 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-67",
+    "question": "Is the edge with id 990458793#1 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-68",
+    "question": "Is the edge with id 991133895 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  },
+  {
+    "id": "Q.4-69",
+    "question": "Is the edge with id 998766909 a highway? <Answer> Please answer with yes or no. Do not add any explanation.",
+    "ground_truth": "no"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.10-1",
+    "question": "List the edges that can be considered as eastbound (rightward) highways. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['118479856']"
+  }
+]

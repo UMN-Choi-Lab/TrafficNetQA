@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Q.8-1",
+    "question": "Which edges are connected before and after the edge with id E0? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['E1', 'E19']"
+  },
+  {
+    "id": "Q.8-2",
+    "question": "Which edges are connected before and after the edge with id E1? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E0'], after: ['E2']"
+  },
+  {
+    "id": "Q.8-3",
+    "question": "Which edges are connected before and after the edge with id E10? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E12', 'E21'], after: ['E11', 'E20']"
+  },
+  {
+    "id": "Q.8-4",
+    "question": "Which edges are connected before and after the edge with id E11? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E10', 'E19'], after: None"
+  },
+  {
+    "id": "Q.8-5",
+    "question": "Which edges are connected before and after the edge with id E12? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['E10', 'E18']"
+  },
+  {
+    "id": "Q.8-6",
+    "question": "Which edges are connected before and after the edge with id E13? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['E14', 'E16']"
+  },
+  {
+    "id": "Q.8-7",
+    "question": "Which edges are connected before and after the edge with id E14? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E13', 'E20'], after: ['E15', 'E21']"
+  },
+  {
+    "id": "Q.8-8",
+    "question": "Which edges are connected before and after the edge with id E15? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E14', 'E17'], after: None"
+  },
+  {
+    "id": "Q.8-9",
+    "question": "Which edges are connected before and after the edge with id E16? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E13', 'E20'], after: ['E4']"
+  },
+  {
+    "id": "Q.8-10",
+    "question": "Which edges are connected before and after the edge with id E17? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E5'], after: ['E15', 'E21']"
+  },
+  {
+    "id": "Q.8-11",
+    "question": "Which edges are connected before and after the edge with id E18? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E12', 'E21'], after: ['E9']"
+  },
+  {
+    "id": "Q.8-12",
+    "question": "Which edges are connected before and after the edge with id E19? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E0'], after: ['E11', 'E20']"
+  },
+  {
+    "id": "Q.8-13",
+    "question": "Which edges are connected before and after the edge with id E2? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E1'], after: ['E3']"
+  },
+  {
+    "id": "Q.8-14",
+    "question": "Which edges are connected before and after the edge with id E20? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E10', 'E19'], after: ['E14', 'E16']"
+  },
+  {
+    "id": "Q.8-15",
+    "question": "Which edges are connected before and after the edge with id E21? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E14', 'E17'], after: ['E10', 'E18']"
+  },
+  {
+    "id": "Q.8-16",
+    "question": "Which edges are connected before and after the edge with id E3? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E2'], after: ['E4']"
+  },
+  {
+    "id": "Q.8-17",
+    "question": "Which edges are connected before and after the edge with id E4? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E16', 'E3'], after: None"
+  },
+  {
+    "id": "Q.8-18",
+    "question": "Which edges are connected before and after the edge with id E5? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: None, after: ['E17', 'E6']"
+  },
+  {
+    "id": "Q.8-19",
+    "question": "Which edges are connected before and after the edge with id E6? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E5'], after: ['E7']"
+  },
+  {
+    "id": "Q.8-20",
+    "question": "Which edges are connected before and after the edge with id E7? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E6'], after: ['E8']"
+  },
+  {
+    "id": "Q.8-21",
+    "question": "Which edges are connected before and after the edge with id E8? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E7'], after: ['E9']"
+  },
+  {
+    "id": "Q.8-22",
+    "question": "Which edges are connected before and after the edge with id E9? <Answer> before: [Your answer], after: [Your answer]. Do not add any explanation.",
+    "ground_truth": "before: ['E18', 'E8'], after: None"
+  }
+]

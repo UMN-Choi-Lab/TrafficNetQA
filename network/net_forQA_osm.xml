@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-06-06T18:51:01Z"/>
+
+  <node id="187849253" lat="44.9520750" lon="-93.1669575"/>
+  <node id="187849887" lat="44.9512065" lon="-93.1684674"/>
+  <node id="187851417" lat="44.9512586" lon="-93.1653458"/>
+  <node id="187852797" lat="44.9520904" lon="-93.1673463">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="688976788" lat="44.9484338" lon="-93.1670908">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="688976791" lat="44.9484356" lon="-93.1669293">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="688976794" lat="44.9493452" lon="-93.1670876"/>
+  <node id="688976796" lat="44.9502519" lon="-93.1671135"/>
+  <node id="688976797" lat="44.9502517" lon="-93.1669157"/>
+  <node id="688976799" lat="44.9493480" lon="-93.1669261"/>
+  <node id="688976800" lat="44.9504470" lon="-93.1671400"/>
+  <node id="688976802" lat="44.9510047" lon="-93.1672358"/>
+  <node id="688976803" lat="44.9512429" lon="-93.1669491"/>
+  <node id="688976805" lat="44.9507919" lon="-93.1669455"/>
+  <node id="688976807" lat="44.9505330" lon="-93.1669242"/>
+  <node id="688976809" lat="44.9512382" lon="-93.1672573"/>
+  <node id="688976810" lat="44.9513414" lon="-93.1672598"/>
+  <node id="688976813" lat="44.9524786" lon="-93.1672319"/>
+  <node id="688976814" lat="44.9521657" lon="-93.1672569">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="688976816" lat="44.9520861" lon="-93.1672565"/>
+  <node id="688976817" lat="44.9527204" lon="-93.1669680"/>
+  <node id="688976819" lat="44.9523438" lon="-93.1669867"/>
+  <node id="688976820" lat="44.9519791" lon="-93.1672575"/>
+  <node id="688976822" lat="44.9519769" lon="-93.1669506"/>
+  <node id="688976823" lat="44.9530795" lon="-93.1671389"/>
+  <node id="688976824" lat="44.9528743" lon="-93.1669501"/>
+  <node id="688976826" lat="44.9540640" lon="-93.1670781">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="traffic_lights"/>
+  </node>
+  <node id="688976827" lat="44.9533241" lon="-93.1671103"/>
+  <node id="688976829" lat="44.9540643" lon="-93.1669215">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="traffic_lights"/>
+  </node>
+  <node id="688976830" lat="44.9535978" lon="-93.1669225"/>
+  <node id="688976831" lat="44.9548054" lon="-93.1670793"/>
+  <node id="688976833" lat="44.9548075" lon="-93.1669231"/>
+  <node id="716319398" lat="44.9555882" lon="-93.1670927">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="716319431" lat="44.9555877" lon="-93.1669296">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="877830030" lat="44.9520209" lon="-93.1761851"/>
+  <node id="877830126" lat="44.9520209" lon="-93.1750264"/>
+  <node id="877830129" lat="44.9520209" lon="-93.1753268"/>
+  <node id="877830134" lat="44.9520247" lon="-93.1757935"/>
+  <node id="902014734" lat="44.9520804" lon="-93.1682244"/>
+  <node id="902014750" lat="44.9520804" lon="-93.1686052"/>
+  <node id="902014753" lat="44.9520804" lon="-93.1689915"/>
+  <node id="902014755" lat="44.9520729" lon="-93.1693402"/>
+  <node id="902014760" lat="44.9520653" lon="-93.1696835"/>
+  <node id="902014763" lat="44.9520501" lon="-93.1700322"/>
+  <node id="902014766" lat="44.9520363" lon="-93.1703352"/>
+  <node id="902014770" lat="44.9520183" lon="-93.1706249"/>
+  <node id="902014773" lat="44.9519987" lon="-93.1709338"/>
+  <node id="902014776" lat="44.9519859" lon="-93.1711976"/>
+  <node id="902014778" lat="44.9519754" lon="-93.1716001"/>
+  <node id="902014779" lat="44.9519725" lon="-93.1719397"/>
+  <node id="902014780" lat="44.9519720" lon="-93.1721611"/>
+  <node id="902014782" lat="44.9519931" lon="-93.1728753"/>
+  <node id="902014785" lat="44.9520083" lon="-93.1743774"/>
+  <node id="902014822" lat="44.9518283" lon="-93.1747141">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="ref" v="238"/>
+  </node>
+  <node id="902014825" lat="44.9518185" lon="-93.1740609"/>
+  <node id="902014830" lat="44.9518033" lon="-93.1734922"/>
+  <node id="902014839" lat="44.9517321" lon="-93.1716619"/>
+  <node id="902014848" lat="44.9515946" lon="-93.1675314"/>
+  <node id="902014869" lat="44.9515821" lon="-93.1665621"/>
+  <node id="902014872" lat="44.9515793" lon="-93.1657621"/>
+  <node id="902014874" lat="44.9515831" lon="-93.1651720"/>
+  <node id="902014879" lat="44.9515945" lon="-93.1639811"/>
+  <node id="902014883" lat="44.9515983" lon="-93.1633052"/>
+  <node id="902014887" lat="44.9516135" lon="-93.1623933"/>
+  <node id="902014891" lat="44.9516287" lon="-93.1615189"/>
+  <node id="902014895" lat="44.9516439" lon="-93.1605425"/>
+  <node id="902014901" lat="44.9516553" lon="-93.1590298"/>
+  <node id="902014906" lat="44.9516666" lon="-93.1580373"/>
+  <node id="902014909" lat="44.9516704" lon="-93.1571469"/>
+  <node id="902014940" lat="44.9518710" lon="-93.1554102"/>
+  <node id="902014953" lat="44.9518413" lon="-93.1577906">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="ref" v="238"/>
+  </node>
+  <node id="902014997" lat="44.9517881" lon="-93.1612935"/>
+  <node id="902015020" lat="44.9517502" lon="-93.1640723"/>
+  <node id="902015026" lat="44.9517426" lon="-93.1647858"/>
+  <node id="902015032" lat="44.9517388" lon="-93.1652900"/>
+  <node id="902015040" lat="44.9517350" lon="-93.1657406"/>
+  <node id="902015048" lat="44.9517350" lon="-93.1661752"/>
+  <node id="902015049" lat="44.9517426" lon="-93.1666365"/>
+  <node id="902015054" lat="44.9517464" lon="-93.1670978"/>
+  <node id="902015062" lat="44.9517616" lon="-93.1676826"/>
+  <node id="902015063" lat="44.9517767" lon="-93.1681707"/>
+  <node id="902015064" lat="44.9517995" lon="-93.1688091"/>
+  <node id="902015066" lat="44.9518565" lon="-93.1704935"/>
+  <node id="902015069" lat="44.9519096" lon="-93.1718775"/>
+  <node id="902015071" lat="44.9519438" lon="-93.1726876"/>
+  <node id="902015074" lat="44.9519704" lon="-93.1733635"/>
+  <node id="902015077" lat="44.9519931" lon="-93.1739321"/>
+  <node id="902015078" lat="44.9520159" lon="-93.1747153"/>
+  <node id="902015139" lat="44.9521638" lon="-93.1687010"/>
+  <node id="902015140" lat="44.9521602" lon="-93.1692490"/>
+  <node id="902015145" lat="44.9521564" lon="-93.1694314"/>
+  <node id="902015148" lat="44.9521488" lon="-93.1696352"/>
+  <node id="902015156" lat="44.9521412" lon="-93.1697747"/>
+  <node id="902015162" lat="44.9521300" lon="-93.1699049"/>
+  <node id="902015167" lat="44.9521143" lon="-93.1700370"/>
+  <node id="902015172" lat="44.9520976" lon="-93.1701585"/>
+  <node id="902015176" lat="44.9520757" lon="-93.1703462"/>
+  <node id="902015179" lat="44.9520528" lon="-93.1705501"/>
+  <node id="902015180" lat="44.9520277" lon="-93.1708073"/>
+  <node id="902015203" lat="44.9512639" lon="-93.1615572"/>
+  <node id="902015208" lat="44.9513261" lon="-93.1611036"/>
+  <node id="902015224" lat="44.9513621" lon="-93.1607504"/>
+  <node id="902015225" lat="44.9515104" lon="-93.1592036"/>
+  <node id="902015229" lat="44.9515336" lon="-93.1589862"/>
+  <node id="902015319" lat="44.9517641" lon="-93.1737595"/>
+  <node id="902015321" lat="44.9517108" lon="-93.1729164"/>
+  <node id="902015324" lat="44.9516940" lon="-93.1724546"/>
+  <node id="902015326" lat="44.9516800" lon="-93.1722247"/>
+  <node id="902015327" lat="44.9516608" lon="-93.1720127"/>
+  <node id="902015328" lat="44.9516257" lon="-93.1716941"/>
+  <node id="902015329" lat="44.9515786" lon="-93.1713199"/>
+  <node id="902015330" lat="44.9515368" lon="-93.1709978"/>
+  <node id="902015331" lat="44.9514835" lon="-93.1706215"/>
+  <node id="902015332" lat="44.9514333" lon="-93.1702863"/>
+  <node id="902015333" lat="44.9513747" lon="-93.1699134"/>
+  <node id="902015334" lat="44.9513136" lon="-93.1694904"/>
+  <node id="902015335" lat="44.9512749" lon="-93.1691864"/>
+  <node id="902015336" lat="44.9512472" lon="-93.1688199"/>
+  <node id="902015366" lat="44.9518952" lon="-93.1614357"/>
+  <node id="902015369" lat="44.9519476" lon="-93.1629726"/>
+  <node id="902015373" lat="44.9519704" lon="-93.1639918"/>
+  <node id="902015539" lat="44.9514050" lon="-93.1633840"/>
+  <node id="902015543" lat="44.9514237" lon="-93.1631067"/>
+  <node id="902015547" lat="44.9514886" lon="-93.1621750"/>
+  <node id="902015553" lat="44.9514958" lon="-93.1620037"/>
+  <node id="902015557" lat="44.9515105" lon="-93.1617310"/>
+  <node id="902015562" lat="44.9515348" lon="-93.1601763"/>
+  <node id="902015564" lat="44.9515431" lon="-93.1595940"/>
+  <node id="902015565" lat="44.9515829" lon="-93.1587664"/>
+  <node id="1107832163" lat="44.9537033" lon="-93.1669222"/>
+  <node id="1493258152" lat="44.9534296" lon="-93.1671009"/>
+  <node id="1657579450" lat="44.9521029" lon="-93.1677135"/>
+  <node id="1657579465" lat="44.9529490" lon="-93.1671595"/>
+  <node id="1657579467" lat="44.9553345" lon="-93.1670847"/>
+  <node id="1657588621" lat="44.9507450" lon="-93.1671930"/>
+  <node id="1657588630" lat="44.9511626" lon="-93.1672556">
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1657588633" lat="44.9511605" lon="-93.1669497">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1657588646" lat="44.9512191" lon="-93.1681423"/>
+  <node id="1657588647" lat="44.9520734" lon="-93.1664273"/>
+  <node id="1657588653" lat="44.9521508" lon="-93.1669693">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="1657588659" lat="44.9524886" lon="-93.1669871"/>
+  <node id="1810110100" lat="44.9496395" lon="-93.1670862"/>
+  <node id="1810110118" lat="44.9497669" lon="-93.1670851"/>
+  <node id="1810110134" lat="44.9499069" lon="-93.1669081"/>
+  <node id="1810110401" lat="44.9512601" lon="-93.1690264"/>
+  <node id="1810122693" lat="44.9518775" lon="-93.1605806"/>
+  <node id="1810122694" lat="44.9518874" lon="-93.1609558"/>
+  <node id="1888749448" lat="44.9515981" lon="-93.1583487"/>
+  <node id="1888749456" lat="44.9520156" lon="-93.1650947"/>
+  <node id="1888749458" lat="44.9520770" lon="-93.1660873"/>
+  <node id="1942842404" lat="44.9519174" lon="-93.1619526"/>
+  <node id="2939753898" lat="44.9485695" lon="-93.1670906"/>
+  <node id="2939753899" lat="44.9485731" lon="-93.1669290"/>
+  <node id="3063751558" lat="44.9506948" lon="-93.1669444"/>
+  <node id="3063751616" lat="44.9512412" lon="-93.1662443"/>
+  <node id="3063751617" lat="44.9512515" lon="-93.1657108"/>
+  <node id="3063751618" lat="44.9513309" lon="-93.1647134"/>
+  <node id="3394767254" lat="44.9555090" lon="-93.1670884">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="3394767255" lat="44.9555052" lon="-93.1669271">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="3749261697" lat="44.9512369" lon="-93.1673439">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3749261713" lat="44.9512422" lon="-93.1668418">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3749261718" lat="44.9520720" lon="-93.1668663">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="3749262226" lat="44.9513412" lon="-93.1669476"/>
+  <node id="5683752672" lat="44.9532478" lon="-93.1669268"/>
+  <node id="6401693527" lat="44.9526183" lon="-93.1669777"/>
+  <node id="7630060386" lat="44.9541880" lon="-93.1669215">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="7630060387" lat="44.9539508" lon="-93.1669216">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="7630060388" lat="44.9539699" lon="-93.1670795">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="7630060389" lat="44.9541726" lon="-93.1670784">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="8418523630" lat="44.9550064" lon="-93.1670815">
+    <tag k="bus" v="yes"/>
+    <tag k="network" v="METRO"/>
+    <tag k="operator" v="Metro Transit"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="56122"/>
+  </node>
+  <node id="8418523631" lat="44.9550651" lon="-93.1669225">
+    <tag k="bus" v="yes"/>
+    <tag k="network" v="METRO"/>
+    <tag k="operator" v="Metro Transit"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref" v="56117"/>
+  </node>
+  <node id="8418523640" lat="44.9546938" lon="-93.1669235">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8418523641" lat="44.9546936" lon="-93.1670789">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="8589968986" lat="44.9536491" lon="-93.1670893"/>
+  <node id="8864476437" lat="44.9489750" lon="-93.1669256"/>
+  <node id="8864476438" lat="44.9495908" lon="-93.1669218"/>
+  <node id="8864476439" lat="44.9496417" lon="-93.1669192"/>
+  <node id="8864476440" lat="44.9498680" lon="-93.1669087"/>
+  <node id="8864476441" lat="44.9500604" lon="-93.1669115"/>
+  <node id="8864476442" lat="44.9504062" lon="-93.1669212"/>
+  <node id="8864476443" lat="44.9505681" lon="-93.1669274"/>
+  <node id="8864476444" lat="44.9506221" lon="-93.1669390"/>
+  <node id="8864476445" lat="44.9518167" lon="-93.1669497"/>
+  <node id="8864476448" lat="44.9522875" lon="-93.1669827"/>
+  <node id="8864476449" lat="44.9530672" lon="-93.1669337"/>
+  <node id="8864476450" lat="44.9534352" lon="-93.1669230"/>
+  <node id="8864553155" lat="44.9535382" lon="-93.1670939"/>
+  <node id="8864553156" lat="44.9527609" lon="-93.1671898"/>
+  <node id="8864553157" lat="44.9532460" lon="-93.1671180"/>
+  <node id="8864553160" lat="44.9523095" lon="-93.1672491"/>
+  <node id="8864553161" lat="44.9523908" lon="-93.1672420"/>
+  <node id="8864553177" lat="44.9505881" lon="-93.1671607"/>
+  <node id="8864553178" lat="44.9500319" lon="-93.1670937"/>
+  <node id="8864553179" lat="44.9498693" lon="-93.1670867"/>
+  <node id="9152290363" lat="44.9507276" lon="-93.1669452"/>
+  <node id="9157617655" lat="44.9519552" lon="-93.1633138"/>
+  <node id="9221498906" lat="44.9514040" lon="-93.1700999"/>
+  <node id="9554822904" lat="44.9503428" lon="-93.1671258"/>
+  <node id="9554822907" lat="44.9503429" lon="-93.1669189"/>
+  <node id="9697606396" lat="44.9488617" lon="-93.1670895"/>
+  <node id="9697606397" lat="44.9487354" lon="-93.1670900"/>
+  <node id="9699833968" lat="44.9544108" lon="-93.1670786"/>
+  <node id="9699833969" lat="44.9534001" lon="-93.1671035"/>
+  <node id="9699833970" lat="44.9529171" lon="-93.1671646"/>
+  <node id="9699833971" lat="44.9527325" lon="-93.1671940"/>
+  <node id="9699838342" lat="44.9550227" lon="-93.1669226"/>
+  <node id="9699838343" lat="44.9552851" lon="-93.1669248"/>
+  <node id="12437267834" lat="44.9490825" lon="-93.1669257"/>
+  <node id="12772169413" lat="44.9521849" lon="-93.1672559">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="12772169414" lat="44.9520721" lon="-93.1668386">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="12772169415" lat="44.9519709" lon="-93.1669506">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="12772169416" lat="44.9511361" lon="-93.1669494">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="12772169417" lat="44.9513867" lon="-93.1672596">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="12772169418" lat="44.9512359" lon="-93.1673885">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <way id="18207686">
+    <nd ref="902014953"/>
+    <nd ref="1810122693"/>
+    <nd ref="1810122694"/>
+    <nd ref="902015366"/>
+    <nd ref="1942842404"/>
+    <nd ref="902015369"/>
+    <nd ref="9157617655"/>
+    <tag k="destination" v="Snelling Avenue"/>
+    <tag k="destination:ref" v="MN 51"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="junction:ref" v="238"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18207763">
+    <nd ref="902014822"/>
+    <nd ref="902015319"/>
+    <nd ref="902015321"/>
+    <nd ref="902015324"/>
+    <nd ref="902015326"/>
+    <nd ref="902015327"/>
+    <nd ref="902015328"/>
+    <nd ref="902015329"/>
+    <nd ref="902015330"/>
+    <nd ref="902015331"/>
+    <nd ref="902015332"/>
+    <nd ref="9221498906"/>
+    <tag k="destination" v="Snelling Avenue"/>
+    <tag k="destination:ref" v="MN 51"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="junction:ref" v="238"/>
+    <tag k="lanes" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="18207974">
+    <nd ref="187851417"/>
+    <nd ref="3063751618"/>
+    <nd ref="902015539"/>
+    <nd ref="902015543"/>
+    <nd ref="902015547"/>
+    <nd ref="902015553"/>
+    <nd ref="902015557"/>
+    <nd ref="902015562"/>
+    <nd ref="902015564"/>
+    <nd ref="902015565"/>
+    <nd ref="1888749448"/>
+    <nd ref="902014909"/>
+    <tag k="destination:ref" v="I 94 East"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="18208202">
+    <nd ref="1657579450"/>
+    <nd ref="902014734"/>
+    <nd ref="902014750"/>
+    <nd ref="902014753"/>
+    <nd ref="902014755"/>
+    <nd ref="902014760"/>
+    <nd ref="902014763"/>
+    <nd ref="902014766"/>
+    <nd ref="902014770"/>
+    <nd ref="902014773"/>
+    <nd ref="902014776"/>
+    <nd ref="902014778"/>
+    <nd ref="902014779"/>
+    <nd ref="902014780"/>
+    <nd ref="902014782"/>
+    <nd ref="902014785"/>
+    <tag k="destination:ref" v="I 94 West"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight:signed" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="54725259">
+    <nd ref="9699838343"/>
+    <nd ref="3394767255"/>
+    <nd ref="716319431"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|||right"/>
+  </way>
+  <way id="54725263">
+    <nd ref="688976810"/>
+    <nd ref="688976809"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+  </way>
+  <way id="54725268">
+    <nd ref="688976820"/>
+    <nd ref="12772169417"/>
+    <nd ref="688976810"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|left|none|none"/>
+  </way>
+  <way id="54725269">
+    <nd ref="3749262226"/>
+    <nd ref="8864476445"/>
+    <nd ref="12772169415"/>
+    <nd ref="688976822"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="shoulder" v="no"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="76535448">
+    <nd ref="902014940"/>
+    <nd ref="902014953"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="destination:lanes" v="|||Snelling Avenue"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 94"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="turn:lanes" v="|||slight_right"/>
+    <tag k="unsigned_ref" v="US 12;US 52"/>
+  </way>
+  <way id="76535451">
+    <nd ref="902015139"/>
+    <nd ref="902015140"/>
+    <nd ref="902015145"/>
+    <nd ref="902015148"/>
+    <nd ref="902015156"/>
+    <nd ref="902015162"/>
+    <nd ref="902015167"/>
+    <nd ref="902015172"/>
+    <nd ref="902015176"/>
+    <nd ref="902015179"/>
+    <nd ref="902015180"/>
+    <nd ref="902014776"/>
+    <tag k="access" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="hov" v="yes"/>
+    <tag k="lit" v="yes"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="76535453">
+    <nd ref="902015203"/>
+    <nd ref="902015208"/>
+    <nd ref="902015224"/>
+    <nd ref="902015225"/>
+    <nd ref="902015229"/>
+    <nd ref="1888749448"/>
+    <tag k="access" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="hov" v="yes"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="118479814">
+    <nd ref="902014785"/>
+    <nd ref="902015078"/>
+    <nd ref="877830126"/>
+    <nd ref="877830129"/>
+    <nd ref="877830134"/>
+    <nd ref="877830030"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 94"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="tiger:cfcc" v="A15"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="unsigned_ref" v="US 12;US 52"/>
+  </way>
+  <way id="118479819">
+    <nd ref="902014953"/>
+    <nd ref="902014997"/>
+    <nd ref="902015020"/>
+    <nd ref="902015026"/>
+    <nd ref="902015032"/>
+    <nd ref="902015040"/>
+    <nd ref="902015048"/>
+    <nd ref="902015049"/>
+    <nd ref="902015054"/>
+    <nd ref="902015062"/>
+    <nd ref="902015063"/>
+    <nd ref="902015064"/>
+    <nd ref="902015066"/>
+    <nd ref="902015069"/>
+    <nd ref="902015071"/>
+    <nd ref="902015074"/>
+    <nd ref="902015077"/>
+    <nd ref="902014785"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 94"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="unsigned_ref" v="US 12;US 52"/>
+  </way>
+  <way id="118479856">
+    <nd ref="902014822"/>
+    <nd ref="902014825"/>
+    <nd ref="902014830"/>
+    <nd ref="902014839"/>
+    <nd ref="902014848"/>
+    <nd ref="902014869"/>
+    <nd ref="902014872"/>
+    <nd ref="902014874"/>
+    <nd ref="902014879"/>
+    <nd ref="902014883"/>
+    <nd ref="902014887"/>
+    <nd ref="902014891"/>
+    <nd ref="902014895"/>
+    <nd ref="902014901"/>
+    <nd ref="902014906"/>
+    <nd ref="902014909"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="description" v="eastbound I-94"/>
+    <tag k="foot" v="no"/>
+    <tag k="hgv" v="designated"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="horse" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="55 mph"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="I 94"/>
+    <tag k="source" v="image"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="unsigned_ref" v="US 12;US 52"/>
+    <tag k="wikidata" v="Q94965"/>
+  </way>
+  <way id="178546997">
+    <nd ref="1657588646"/>
+    <nd ref="12772169418"/>
+    <nd ref="3749261697"/>
+    <nd ref="688976809"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="turn:lanes" v="left|left;through|none"/>
+  </way>
+  <way id="178547037">
+    <nd ref="1888749458"/>
+    <nd ref="1657588647"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Saint Anthony Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="St Anthony"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="55104"/>
+    <tag k="tiger:zip_right" v="55104"/>
+    <tag k="turn:lanes" v="left|left;through|none|right"/>
+  </way>
+  <way id="290451895">
+    <nd ref="716319398"/>
+    <nd ref="3394767254"/>
+    <nd ref="1657579467"/>
+    <nd ref="8418523630"/>
+    <nd ref="688976831"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="290457949">
+    <nd ref="688976799"/>
+    <nd ref="8864476438"/>
+    <nd ref="8864476439"/>
+    <nd ref="8864476440"/>
+    <nd ref="1810110134"/>
+    <nd ref="8864476441"/>
+    <nd ref="688976797"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+  </way>
+  <way id="635760563">
+    <nd ref="688976813"/>
+    <nd ref="8864553161"/>
+    <nd ref="8864553160"/>
+    <nd ref="12772169413"/>
+    <nd ref="688976814"/>
+    <nd ref="688976816"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|none|none"/>
+  </way>
+  <way id="637589289">
+    <nd ref="688976816"/>
+    <nd ref="688976820"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|left|none|none"/>
+  </way>
+  <way id="637589290">
+    <nd ref="1657588647"/>
+    <nd ref="12772169414"/>
+    <nd ref="3749261718"/>
+    <nd ref="187849253"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Saint Anthony Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="St Anthony"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="55104"/>
+    <tag k="tiger:zip_right" v="55104"/>
+    <tag k="turn:lanes" v="left|left;through|"/>
+  </way>
+  <way id="637589292">
+    <nd ref="688976803"/>
+    <nd ref="3749261713"/>
+    <nd ref="3063751616"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="637589293">
+    <nd ref="688976803"/>
+    <nd ref="3749262226"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|left|none|none"/>
+  </way>
+  <way id="699832320">
+    <nd ref="688976797"/>
+    <nd ref="9554822907"/>
+    <nd ref="8864476442"/>
+    <nd ref="688976807"/>
+    <nd ref="8864476443"/>
+    <nd ref="8864476444"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+  </way>
+  <way id="739432137">
+    <nd ref="688976809"/>
+    <nd ref="1657588630"/>
+    <nd ref="688976802"/>
+    <nd ref="1657588621"/>
+    <nd ref="8864553177"/>
+    <nd ref="688976800"/>
+    <nd ref="9554822904"/>
+    <nd ref="688976796"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="739432138">
+    <nd ref="688976809"/>
+    <nd ref="688976803"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="799590949">
+    <nd ref="688976794"/>
+    <nd ref="9697606396"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="925592808">
+    <nd ref="688976822"/>
+    <nd ref="187849253"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|left||"/>
+  </way>
+  <way id="925592809">
+    <nd ref="187849253"/>
+    <nd ref="688976816"/>
+    <tag k="highway" v="primary"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Saint Anthony Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="St Anthony"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="55104"/>
+    <tag k="tiger:zip_right" v="55104"/>
+  </way>
+  <way id="990458792">
+    <nd ref="8864476444"/>
+    <nd ref="3063751558"/>
+    <nd ref="9152290363"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|none|right"/>
+  </way>
+  <way id="990458793">
+    <nd ref="9152290363"/>
+    <nd ref="688976805"/>
+    <nd ref="12772169416"/>
+    <nd ref="1657588633"/>
+    <nd ref="688976803"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="5"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|none|none|right"/>
+  </way>
+  <way id="991133895">
+    <nd ref="9157617655"/>
+    <nd ref="902015373"/>
+    <nd ref="1888749456"/>
+    <nd ref="1888749458"/>
+    <tag k="destination:street" v="Snelling Avenue"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|left;through"/>
+  </way>
+  <way id="998766909">
+    <nd ref="9221498906"/>
+    <nd ref="902015333"/>
+    <nd ref="902015334"/>
+    <nd ref="902015335"/>
+    <nd ref="1810110401"/>
+    <nd ref="902015336"/>
+    <nd ref="187849887"/>
+    <tag k="destination:ref" v="MN 51"/>
+    <tag k="destination:street" v="Snelling Avenue"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="junction:ref" v="238"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A63"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="1016174109">
+    <nd ref="688976816"/>
+    <nd ref="187852797"/>
+    <nd ref="1657579450"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Saint Anthony Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="St Anthony"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="55104"/>
+    <tag k="tiger:zip_right" v="55104"/>
+    <tag k="turn:lanes" v="slight_left;through"/>
+  </way>
+  <way id="1022537751">
+    <nd ref="187849887"/>
+    <nd ref="1657588646"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="1055385046">
+    <nd ref="688976796"/>
+    <nd ref="8864553178"/>
+    <nd ref="8864553179"/>
+    <nd ref="1810110118"/>
+    <nd ref="1810110100"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055385047">
+    <nd ref="1810110100"/>
+    <nd ref="688976794"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|none|none"/>
+  </way>
+  <way id="1055385048">
+    <nd ref="9697606397"/>
+    <nd ref="2939753898"/>
+    <nd ref="688976788"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="turn:lanes" v="left|none|none|right"/>
+  </way>
+  <way id="1055385049">
+    <nd ref="9697606396"/>
+    <nd ref="9697606397"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|none|none"/>
+  </way>
+  <way id="1055612366">
+    <nd ref="688976831"/>
+    <nd ref="8418523641"/>
+    <nd ref="9699833968"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="concrete"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055612367">
+    <nd ref="9699833968"/>
+    <nd ref="7630060389"/>
+    <nd ref="688976826"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|none|none"/>
+  </way>
+  <way id="1055612368">
+    <nd ref="688976826"/>
+    <nd ref="7630060388"/>
+    <nd ref="8589968986"/>
+    <nd ref="8864553155"/>
+    <nd ref="1493258152"/>
+    <nd ref="9699833969"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055612369">
+    <nd ref="9699833969"/>
+    <nd ref="688976827"/>
+    <nd ref="8864553157"/>
+    <nd ref="688976823"/>
+    <nd ref="1657579465"/>
+    <nd ref="9699833970"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055612370">
+    <nd ref="9699833970"/>
+    <nd ref="8864553156"/>
+    <nd ref="9699833971"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="none|none|none|right"/>
+  </way>
+  <way id="1055612371">
+    <nd ref="9699833971"/>
+    <nd ref="688976813"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="5"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="concrete"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|none|none|right"/>
+  </way>
+  <way id="1055614396">
+    <nd ref="187849253"/>
+    <nd ref="1657588653"/>
+    <nd ref="8864476448"/>
+    <nd ref="688976819"/>
+    <nd ref="1657588659"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055614397">
+    <nd ref="1657588659"/>
+    <nd ref="6401693527"/>
+    <nd ref="688976817"/>
+    <nd ref="688976824"/>
+    <nd ref="8864476449"/>
+    <nd ref="5683752672"/>
+    <nd ref="8864476450"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055614398">
+    <nd ref="8864476450"/>
+    <nd ref="688976830"/>
+    <nd ref="1107832163"/>
+    <nd ref="7630060387"/>
+    <nd ref="688976829"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left|||"/>
+  </way>
+  <way id="1055614400">
+    <nd ref="688976829"/>
+    <nd ref="7630060386"/>
+    <nd ref="8418523640"/>
+    <nd ref="688976833"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="||right"/>
+  </way>
+  <way id="1055614401">
+    <nd ref="688976833"/>
+    <nd ref="9699838342"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1055614402">
+    <nd ref="9699838342"/>
+    <nd ref="8418523631"/>
+    <nd ref="9699838343"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left||"/>
+  </way>
+  <way id="1121975788">
+    <nd ref="3063751617"/>
+    <nd ref="187851417"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="turn:lanes" v="slight_left||"/>
+  </way>
+  <way id="1202724756">
+    <nd ref="3063751616"/>
+    <nd ref="3063751617"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Concordia Avenue"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Ramsey, MN"/>
+    <tag k="tiger:name_base" v="Concordia"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="1344375759">
+    <nd ref="688976791"/>
+    <nd ref="2939753899"/>
+    <nd ref="8864476437"/>
+    <nd ref="12437267834"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+  </way>
+  <way id="1344375761">
+    <nd ref="12437267834"/>
+    <nd ref="688976799"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Snelling Avenue"/>
+    <tag k="name:etymology:wikidata" v="Q3186044"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="MN 51"/>
+    <tag k="turn:lanes" v="left|none|none"/>
+  </way>
+
+</osm>

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q.3-1",
+    "question": "What is the shortest path (by length) from the node with id 902014822 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['18207763', '998766909', '1022537751', '178546997#0', '178546997#1', '739432137', '1055385046', '1055385047', '799590949', '1055385049', '1055385048']"
+  },
+  {
+    "id": "Q.3-2",
+    "question": "What is the shortest path (by length) from the node with id 902014822 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['18207763', '998766909', '1022537751', '178546997#0', '178546997#1', '739432138', '637589293', '54725269#0', '54725269#1', '925592808', '925592809', '1016174109', '18208202#0', '18208202#1', '118479814']"
+  },
+  {
+    "id": "Q.3-3",
+    "question": "What is the shortest path (by length) from the node with id 902014822 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['118479856']"
+  },
+  {
+    "id": "Q.3-4",
+    "question": "What is the shortest path (by length) from the node with id 902014822 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['18207763', '998766909', '1022537751', '178546997#0', '178546997#1', '739432138', '637589293', '54725269#0', '54725269#1', '925592808', '1055614396', '1055614397', '1055614398#0', '1055614398#1', '1055614400#0', '1055614400#1', '1055614401', '1055614402', '54725259#0', '54725259#1']"
+  },
+  {
+    "id": "Q.3-5",
+    "question": "What is the shortest path (by length) from the node with id 688976791 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['1344375759', '1344375761', '290457949', '699832320', '990458792', '990458793#0', '990458793#1', '637589293', '54725269#0', '54725269#1', '925592808', '925592809', '637589289', '54725268#0', '54725268#1', '54725263', '739432137', '1055385046', '1055385047', '799590949', '1055385049', '1055385048']"
+  },
+  {
+    "id": "Q.3-6",
+    "question": "What is the shortest path (by length) from the node with id 688976791 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['1344375759', '1344375761', '290457949', '699832320', '990458792', '990458793#0', '990458793#1', '637589293', '54725269#0', '54725269#1', '925592808', '925592809', '1016174109', '18208202#0', '18208202#1', '118479814']"
+  },
+  {
+    "id": "Q.3-7",
+    "question": "What is the shortest path (by length) from the node with id 688976791 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['1344375759', '1344375761', '290457949', '699832320', '990458792', '990458793#0', '990458793#1', '637589292', '1202724756', '1121975788', '18207974#0', '18207974#1']"
+  },
+  {
+    "id": "Q.3-8",
+    "question": "What is the shortest path (by length) from the node with id 688976791 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['1344375759', '1344375761', '290457949', '699832320', '990458792', '990458793#0', '990458793#1', '637589293', '54725269#0', '54725269#1', '925592808', '1055614396', '1055614397', '1055614398#0', '1055614398#1', '1055614400#0', '1055614400#1', '1055614401', '1055614402', '54725259#0', '54725259#1']"
+  },
+  {
+    "id": "Q.3-9",
+    "question": "What is the shortest path (by length) from the node with id 716319398 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['290451895#0', '290451895#1', '1055612366', '1055612367#0', '1055612367#1', '1055612368#0', '1055612368#1', '1055612369', '1055612370', '1055612371', '635760563#0', '635760563#1', '637589289', '54725268#0', '54725268#1', '54725263', '739432137', '1055385046', '1055385047', '799590949', '1055385049', '1055385048']"
+  },
+  {
+    "id": "Q.3-10",
+    "question": "What is the shortest path (by length) from the node with id 716319398 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['290451895#0', '290451895#1', '1055612366', '1055612367#0', '1055612367#1', '1055612368#0', '1055612368#1', '1055612369', '1055612370', '1055612371', '635760563#0', '635760563#1', '1016174109', '18208202#0', '18208202#1', '118479814']"
+  },
+  {
+    "id": "Q.3-11",
+    "question": "What is the shortest path (by length) from the node with id 716319398 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['290451895#0', '290451895#1', '1055612366', '1055612367#0', '1055612367#1', '1055612368#0', '1055612368#1', '1055612369', '1055612370', '1055612371', '635760563#0', '635760563#1', '637589289', '54725268#0', '54725268#1', '54725263', '739432138', '637589292', '1202724756', '1121975788', '18207974#0', '18207974#1']"
+  },
+  {
+    "id": "Q.3-12",
+    "question": "What is the shortest path (by length) from the node with id 716319398 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['290451895#0', '290451895#1', '1055612366', '1055612367#0', '1055612367#1', '1055612368#0', '1055612368#1', '1055612369', '1055612370', '1055612371', '635760563#0', '635760563#1', '637589289', '54725268#0', '54725268#1', '54725263', '739432138', '637589293', '54725269#0', '54725269#1', '925592808', '1055614396', '1055614397', '1055614398#0', '1055614398#1', '1055614400#0', '1055614400#1', '1055614401', '1055614402', '54725259#0', '54725259#1']"
+  },
+  {
+    "id": "Q.3-13",
+    "question": "What is the shortest path (by length) from the node with id 902014940 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535448', '18207686', '991133895', '178547037', '637589290#0', '637589290#1', '925592809', '637589289', '54725268#0', '54725268#1', '54725263', '739432137', '1055385046', '1055385047', '799590949', '1055385049', '1055385048']"
+  },
+  {
+    "id": "Q.3-14",
+    "question": "What is the shortest path (by length) from the node with id 902014940 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535448', '118479819', '118479814']"
+  },
+  {
+    "id": "Q.3-15",
+    "question": "What is the shortest path (by length) from the node with id 902014940 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535448', '18207686', '991133895', '178547037', '637589290#0', '637589290#1', '925592809', '637589289', '54725268#0', '54725268#1', '54725263', '739432138', '637589292', '1202724756', '1121975788', '18207974#0', '18207974#1']"
+  },
+  {
+    "id": "Q.3-16",
+    "question": "What is the shortest path (by length) from the node with id 902014940 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535448', '18207686', '991133895', '178547037', '637589290#0', '637589290#1', '1055614396', '1055614397', '1055614398#0', '1055614398#1', '1055614400#0', '1055614400#1', '1055614401', '1055614402', '54725259#0', '54725259#1']"
+  },
+  {
+    "id": "Q.3-17",
+    "question": "What is the shortest path (by length) from the node with id 902015139 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.3-18",
+    "question": "What is the shortest path (by length) from the node with id 902015139 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535451', '18208202#1', '118479814']"
+  },
+  {
+    "id": "Q.3-19",
+    "question": "What is the shortest path (by length) from the node with id 902015139 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.3-20",
+    "question": "What is the shortest path (by length) from the node with id 902015139 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.3-21",
+    "question": "What is the shortest path (by length) from the node with id 902015203 to the node with id 688976788? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.3-22",
+    "question": "What is the shortest path (by length) from the node with id 902015203 to the node with id 877830030? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  },
+  {
+    "id": "Q.3-23",
+    "question": "What is the shortest path (by length) from the node with id 902015203 to the node with id 902014909? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['76535453', '18207974#1']"
+  },
+  {
+    "id": "Q.3-24",
+    "question": "What is the shortest path (by length) from the node with id 902015203 to the node with id 716319431? List the ways in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "No path found"
+  }
+]

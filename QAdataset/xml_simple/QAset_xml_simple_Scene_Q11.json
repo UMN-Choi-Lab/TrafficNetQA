@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.11-1",
+    "question": "List the junctions that can be considered as source and sink for vehicle generation based on the terminal ends of roads in the network. <Answer> source: [Your answer, ...], sink: [Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "source: ['J0', 'J15', 'J16', 'J6'], sink: ['J14', 'J19', 'J5', 'J11']"
+  }
+]

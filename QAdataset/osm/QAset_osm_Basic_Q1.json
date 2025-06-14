@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.1-1",
+    "question": "What is the id of the from-node for the way with id 1016174109? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976816"
+  },
+  {
+    "id": "Q.1-2",
+    "question": "What is the id of the from-node for the way with id 1022537751? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 187849887"
+  },
+  {
+    "id": "Q.1-3",
+    "question": "What is the id of the from-node for the way with id 1055385046? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976796"
+  },
+  {
+    "id": "Q.1-4",
+    "question": "What is the id of the from-node for the way with id 1055385047? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1810110100"
+  },
+  {
+    "id": "Q.1-5",
+    "question": "What is the id of the from-node for the way with id 1055385048? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9697606397"
+  },
+  {
+    "id": "Q.1-6",
+    "question": "What is the id of the from-node for the way with id 1055385049? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9697606396"
+  },
+  {
+    "id": "Q.1-7",
+    "question": "What is the id of the from-node for the way with id 1055612366? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976831"
+  },
+  {
+    "id": "Q.1-8",
+    "question": "What is the id of the from-node for the way with id 1055612367#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699833968"
+  },
+  {
+    "id": "Q.1-9",
+    "question": "What is the id of the from-node for the way with id 1055612367#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 7630060389"
+  },
+  {
+    "id": "Q.1-10",
+    "question": "What is the id of the from-node for the way with id 1055612368#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976826"
+  },
+  {
+    "id": "Q.1-11",
+    "question": "What is the id of the from-node for the way with id 1055612368#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 7630060388"
+  },
+  {
+    "id": "Q.1-12",
+    "question": "What is the id of the from-node for the way with id 1055612369? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699833969"
+  },
+  {
+    "id": "Q.1-13",
+    "question": "What is the id of the from-node for the way with id 1055612370? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699833970"
+  },
+  {
+    "id": "Q.1-14",
+    "question": "What is the id of the from-node for the way with id 1055612371? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699833971"
+  },
+  {
+    "id": "Q.1-15",
+    "question": "What is the id of the from-node for the way with id 1055614396? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 187849253"
+  },
+  {
+    "id": "Q.1-16",
+    "question": "What is the id of the from-node for the way with id 1055614397? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1657588659"
+  },
+  {
+    "id": "Q.1-17",
+    "question": "What is the id of the from-node for the way with id 1055614398#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 8864476450"
+  },
+  {
+    "id": "Q.1-18",
+    "question": "What is the id of the from-node for the way with id 1055614398#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 7630060387"
+  },
+  {
+    "id": "Q.1-19",
+    "question": "What is the id of the from-node for the way with id 1055614400#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976829"
+  },
+  {
+    "id": "Q.1-20",
+    "question": "What is the id of the from-node for the way with id 1055614400#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 7630060386"
+  },
+  {
+    "id": "Q.1-21",
+    "question": "What is the id of the from-node for the way with id 1055614401? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976833"
+  },
+  {
+    "id": "Q.1-22",
+    "question": "What is the id of the from-node for the way with id 1055614402? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699838342"
+  },
+  {
+    "id": "Q.1-23",
+    "question": "What is the id of the from-node for the way with id 1121975788? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 3063751617"
+  },
+  {
+    "id": "Q.1-24",
+    "question": "What is the id of the from-node for the way with id 118479814? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014785"
+  },
+  {
+    "id": "Q.1-25",
+    "question": "What is the id of the from-node for the way with id 118479819? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014953"
+  },
+  {
+    "id": "Q.1-26",
+    "question": "What is the id of the from-node for the way with id 118479856? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014822"
+  },
+  {
+    "id": "Q.1-27",
+    "question": "What is the id of the from-node for the way with id 1202724756? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 3063751616"
+  },
+  {
+    "id": "Q.1-28",
+    "question": "What is the id of the from-node for the way with id 1344375759? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976791"
+  },
+  {
+    "id": "Q.1-29",
+    "question": "What is the id of the from-node for the way with id 1344375761? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12437267834"
+  },
+  {
+    "id": "Q.1-30",
+    "question": "What is the id of the from-node for the way with id 178546997#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1657588646"
+  },
+  {
+    "id": "Q.1-31",
+    "question": "What is the id of the from-node for the way with id 178546997#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169418"
+  },
+  {
+    "id": "Q.1-32",
+    "question": "What is the id of the from-node for the way with id 178547037? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1888749458"
+  },
+  {
+    "id": "Q.1-33",
+    "question": "What is the id of the from-node for the way with id 18207686? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014953"
+  },
+  {
+    "id": "Q.1-34",
+    "question": "What is the id of the from-node for the way with id 18207763? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014822"
+  },
+  {
+    "id": "Q.1-35",
+    "question": "What is the id of the from-node for the way with id 18207974#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 187851417"
+  },
+  {
+    "id": "Q.1-36",
+    "question": "What is the id of the from-node for the way with id 18207974#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1888749448"
+  },
+  {
+    "id": "Q.1-37",
+    "question": "What is the id of the from-node for the way with id 18208202#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1657579450"
+  },
+  {
+    "id": "Q.1-38",
+    "question": "What is the id of the from-node for the way with id 18208202#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014776"
+  },
+  {
+    "id": "Q.1-39",
+    "question": "What is the id of the from-node for the way with id 290451895#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 716319398"
+  },
+  {
+    "id": "Q.1-40",
+    "question": "What is the id of the from-node for the way with id 290451895#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 3394767254"
+  },
+  {
+    "id": "Q.1-41",
+    "question": "What is the id of the from-node for the way with id 290457949? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976799"
+  },
+  {
+    "id": "Q.1-42",
+    "question": "What is the id of the from-node for the way with id 54725259#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9699838343"
+  },
+  {
+    "id": "Q.1-43",
+    "question": "What is the id of the from-node for the way with id 54725259#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 3394767255"
+  },
+  {
+    "id": "Q.1-44",
+    "question": "What is the id of the from-node for the way with id 54725263? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976810"
+  },
+  {
+    "id": "Q.1-45",
+    "question": "What is the id of the from-node for the way with id 54725268#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976820"
+  },
+  {
+    "id": "Q.1-46",
+    "question": "What is the id of the from-node for the way with id 54725268#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169417"
+  },
+  {
+    "id": "Q.1-47",
+    "question": "What is the id of the from-node for the way with id 54725269#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 3749262226"
+  },
+  {
+    "id": "Q.1-48",
+    "question": "What is the id of the from-node for the way with id 54725269#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169415"
+  },
+  {
+    "id": "Q.1-49",
+    "question": "What is the id of the from-node for the way with id 635760563#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976813"
+  },
+  {
+    "id": "Q.1-50",
+    "question": "What is the id of the from-node for the way with id 635760563#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169413"
+  },
+  {
+    "id": "Q.1-51",
+    "question": "What is the id of the from-node for the way with id 637589289? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976816"
+  },
+  {
+    "id": "Q.1-52",
+    "question": "What is the id of the from-node for the way with id 637589290#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 1657588647"
+  },
+  {
+    "id": "Q.1-53",
+    "question": "What is the id of the from-node for the way with id 637589290#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169414"
+  },
+  {
+    "id": "Q.1-54",
+    "question": "What is the id of the from-node for the way with id 637589292? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976803"
+  },
+  {
+    "id": "Q.1-55",
+    "question": "What is the id of the from-node for the way with id 637589293? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976803"
+  },
+  {
+    "id": "Q.1-56",
+    "question": "What is the id of the from-node for the way with id 699832320? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976797"
+  },
+  {
+    "id": "Q.1-57",
+    "question": "What is the id of the from-node for the way with id 739432137? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976809"
+  },
+  {
+    "id": "Q.1-58",
+    "question": "What is the id of the from-node for the way with id 739432138? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976809"
+  },
+  {
+    "id": "Q.1-59",
+    "question": "What is the id of the from-node for the way with id 76535448? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902014940"
+  },
+  {
+    "id": "Q.1-60",
+    "question": "What is the id of the from-node for the way with id 76535451? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902015139"
+  },
+  {
+    "id": "Q.1-61",
+    "question": "What is the id of the from-node for the way with id 76535453? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 902015203"
+  },
+  {
+    "id": "Q.1-62",
+    "question": "What is the id of the from-node for the way with id 799590949? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976794"
+  },
+  {
+    "id": "Q.1-63",
+    "question": "What is the id of the from-node for the way with id 925592808? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 688976822"
+  },
+  {
+    "id": "Q.1-64",
+    "question": "What is the id of the from-node for the way with id 925592809? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 187849253"
+  },
+  {
+    "id": "Q.1-65",
+    "question": "What is the id of the from-node for the way with id 990458792? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 8864476444"
+  },
+  {
+    "id": "Q.1-66",
+    "question": "What is the id of the from-node for the way with id 990458793#0? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9152290363"
+  },
+  {
+    "id": "Q.1-67",
+    "question": "What is the id of the from-node for the way with id 990458793#1? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 12772169416"
+  },
+  {
+    "id": "Q.1-68",
+    "question": "What is the id of the from-node for the way with id 991133895? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9157617655"
+  },
+  {
+    "id": "Q.1-69",
+    "question": "What is the id of the from-node for the way with id 998766909? <Answer> from: [Your answer]. Do not add any explanation.",
+    "ground_truth": "from: 9221498906"
+  }
+]

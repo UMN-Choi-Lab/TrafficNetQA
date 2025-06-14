@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.12-1",
+    "question": "Assuming terminal junctions in the network are used as sources and sinks, how many possible OD (origin–destination) pairs can be formed? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "18"
+  }
+]

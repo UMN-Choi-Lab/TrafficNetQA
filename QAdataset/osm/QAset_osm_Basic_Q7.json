@@ -1,0 +1,337 @@
+[
+  {
+    "id": "Q.7-1",
+    "question": "What are the latitude, longitude coordinates of the node with id 12437267834? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9490825, lon: -93.1669257"
+  },
+  {
+    "id": "Q.7-2",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169413? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9521849, lon: -93.1672559"
+  },
+  {
+    "id": "Q.7-3",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169414? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9520721, lon: -93.1668386"
+  },
+  {
+    "id": "Q.7-4",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169415? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9519709, lon: -93.1669506"
+  },
+  {
+    "id": "Q.7-5",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169416? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9511361, lon: -93.1669494"
+  },
+  {
+    "id": "Q.7-6",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169417? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9513867, lon: -93.1672596"
+  },
+  {
+    "id": "Q.7-7",
+    "question": "What are the latitude, longitude coordinates of the node with id 12772169418? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512359, lon: -93.1673885"
+  },
+  {
+    "id": "Q.7-8",
+    "question": "What are the latitude, longitude coordinates of the node with id 1657579450? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9521029, lon: -93.1677135"
+  },
+  {
+    "id": "Q.7-9",
+    "question": "What are the latitude, longitude coordinates of the node with id 1657588646? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512191, lon: -93.1681423"
+  },
+  {
+    "id": "Q.7-10",
+    "question": "What are the latitude, longitude coordinates of the node with id 1657588647? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9520734, lon: -93.1664273"
+  },
+  {
+    "id": "Q.7-11",
+    "question": "What are the latitude, longitude coordinates of the node with id 1657588659? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9524886, lon: -93.1669871"
+  },
+  {
+    "id": "Q.7-12",
+    "question": "What are the latitude, longitude coordinates of the node with id 1810110100? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9496395, lon: -93.1670862"
+  },
+  {
+    "id": "Q.7-13",
+    "question": "What are the latitude, longitude coordinates of the node with id 187849253? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.952075, lon: -93.1669575"
+  },
+  {
+    "id": "Q.7-14",
+    "question": "What are the latitude, longitude coordinates of the node with id 187849887? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512065, lon: -93.1684674"
+  },
+  {
+    "id": "Q.7-15",
+    "question": "What are the latitude, longitude coordinates of the node with id 187851417? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512586, lon: -93.1653458"
+  },
+  {
+    "id": "Q.7-16",
+    "question": "What are the latitude, longitude coordinates of the node with id 1888749448? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9515981, lon: -93.1583487"
+  },
+  {
+    "id": "Q.7-17",
+    "question": "What are the latitude, longitude coordinates of the node with id 1888749458? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.952077, lon: -93.1660873"
+  },
+  {
+    "id": "Q.7-18",
+    "question": "What are the latitude, longitude coordinates of the node with id 3063751616? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512412, lon: -93.1662443"
+  },
+  {
+    "id": "Q.7-19",
+    "question": "What are the latitude, longitude coordinates of the node with id 3063751617? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512515, lon: -93.1657108"
+  },
+  {
+    "id": "Q.7-20",
+    "question": "What are the latitude, longitude coordinates of the node with id 3394767254? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.955509, lon: -93.1670884"
+  },
+  {
+    "id": "Q.7-21",
+    "question": "What are the latitude, longitude coordinates of the node with id 3394767255? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9555052, lon: -93.1669271"
+  },
+  {
+    "id": "Q.7-22",
+    "question": "What are the latitude, longitude coordinates of the node with id 3749262226? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9513412, lon: -93.1669476"
+  },
+  {
+    "id": "Q.7-23",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976788? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9484338, lon: -93.1670908"
+  },
+  {
+    "id": "Q.7-24",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976791? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9484356, lon: -93.1669293"
+  },
+  {
+    "id": "Q.7-25",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976794? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9493452, lon: -93.1670876"
+  },
+  {
+    "id": "Q.7-26",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976796? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9502519, lon: -93.1671135"
+  },
+  {
+    "id": "Q.7-27",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976797? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9502517, lon: -93.1669157"
+  },
+  {
+    "id": "Q.7-28",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976799? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.949348, lon: -93.1669261"
+  },
+  {
+    "id": "Q.7-29",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976803? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512429, lon: -93.1669491"
+  },
+  {
+    "id": "Q.7-30",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976809? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512382, lon: -93.1672573"
+  },
+  {
+    "id": "Q.7-31",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976810? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9513414, lon: -93.1672598"
+  },
+  {
+    "id": "Q.7-32",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976813? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9524786, lon: -93.1672319"
+  },
+  {
+    "id": "Q.7-33",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976816? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9520861, lon: -93.1672565"
+  },
+  {
+    "id": "Q.7-34",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976820? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9519791, lon: -93.1672575"
+  },
+  {
+    "id": "Q.7-35",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976822? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9519769, lon: -93.1669506"
+  },
+  {
+    "id": "Q.7-36",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976826? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.954064, lon: -93.1670781"
+  },
+  {
+    "id": "Q.7-37",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976829? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9540643, lon: -93.1669215"
+  },
+  {
+    "id": "Q.7-38",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976831? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9548054, lon: -93.1670793"
+  },
+  {
+    "id": "Q.7-39",
+    "question": "What are the latitude, longitude coordinates of the node with id 688976833? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9548075, lon: -93.1669231"
+  },
+  {
+    "id": "Q.7-40",
+    "question": "What are the latitude, longitude coordinates of the node with id 716319398? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9555882, lon: -93.1670927"
+  },
+  {
+    "id": "Q.7-41",
+    "question": "What are the latitude, longitude coordinates of the node with id 716319431? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9555877, lon: -93.1669296"
+  },
+  {
+    "id": "Q.7-42",
+    "question": "What are the latitude, longitude coordinates of the node with id 7630060386? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.954188, lon: -93.1669215"
+  },
+  {
+    "id": "Q.7-43",
+    "question": "What are the latitude, longitude coordinates of the node with id 7630060387? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9539508, lon: -93.1669216"
+  },
+  {
+    "id": "Q.7-44",
+    "question": "What are the latitude, longitude coordinates of the node with id 7630060388? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9539699, lon: -93.1670795"
+  },
+  {
+    "id": "Q.7-45",
+    "question": "What are the latitude, longitude coordinates of the node with id 7630060389? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9541726, lon: -93.1670784"
+  },
+  {
+    "id": "Q.7-46",
+    "question": "What are the latitude, longitude coordinates of the node with id 877830030? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9520209, lon: -93.1761851"
+  },
+  {
+    "id": "Q.7-47",
+    "question": "What are the latitude, longitude coordinates of the node with id 8864476444? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9506221, lon: -93.166939"
+  },
+  {
+    "id": "Q.7-48",
+    "question": "What are the latitude, longitude coordinates of the node with id 8864476450? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9534352, lon: -93.166923"
+  },
+  {
+    "id": "Q.7-49",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014776? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9519859, lon: -93.1711976"
+  },
+  {
+    "id": "Q.7-50",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014785? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9520083, lon: -93.1743774"
+  },
+  {
+    "id": "Q.7-51",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014822? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9518283, lon: -93.1747141"
+  },
+  {
+    "id": "Q.7-52",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014909? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9516704, lon: -93.1571469"
+  },
+  {
+    "id": "Q.7-53",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014940? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.951871, lon: -93.1554102"
+  },
+  {
+    "id": "Q.7-54",
+    "question": "What are the latitude, longitude coordinates of the node with id 902014953? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9518413, lon: -93.1577906"
+  },
+  {
+    "id": "Q.7-55",
+    "question": "What are the latitude, longitude coordinates of the node with id 902015139? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9521638, lon: -93.168701"
+  },
+  {
+    "id": "Q.7-56",
+    "question": "What are the latitude, longitude coordinates of the node with id 902015203? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9512639, lon: -93.1615572"
+  },
+  {
+    "id": "Q.7-57",
+    "question": "What are the latitude, longitude coordinates of the node with id 9152290363? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9507276, lon: -93.1669452"
+  },
+  {
+    "id": "Q.7-58",
+    "question": "What are the latitude, longitude coordinates of the node with id 9157617655? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9519552, lon: -93.1633138"
+  },
+  {
+    "id": "Q.7-59",
+    "question": "What are the latitude, longitude coordinates of the node with id 9221498906? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.951404, lon: -93.1700999"
+  },
+  {
+    "id": "Q.7-60",
+    "question": "What are the latitude, longitude coordinates of the node with id 9697606396? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9488617, lon: -93.1670895"
+  },
+  {
+    "id": "Q.7-61",
+    "question": "What are the latitude, longitude coordinates of the node with id 9697606397? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9487354, lon: -93.16709"
+  },
+  {
+    "id": "Q.7-62",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699833968? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9544108, lon: -93.1670786"
+  },
+  {
+    "id": "Q.7-63",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699833969? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9534001, lon: -93.1671035"
+  },
+  {
+    "id": "Q.7-64",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699833970? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9529171, lon: -93.1671646"
+  },
+  {
+    "id": "Q.7-65",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699833971? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9527325, lon: -93.167194"
+  },
+  {
+    "id": "Q.7-66",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699838342? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9550227, lon: -93.1669226"
+  },
+  {
+    "id": "Q.7-67",
+    "question": "What are the latitude, longitude coordinates of the node with id 9699838343? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "lat: 44.9552851, lon: -93.1669248"
+  }
+]

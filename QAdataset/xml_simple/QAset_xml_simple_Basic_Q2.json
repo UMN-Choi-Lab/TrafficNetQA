@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Q.2-1",
+    "question": "What is the id of the to-junction for the edge with id E0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J1"
+  },
+  {
+    "id": "Q.2-2",
+    "question": "What is the id of the to-junction for the edge with id E1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J2"
+  },
+  {
+    "id": "Q.2-3",
+    "question": "What is the id of the to-junction for the edge with id E10? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J13"
+  },
+  {
+    "id": "Q.2-4",
+    "question": "What is the id of the to-junction for the edge with id E11? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J14"
+  },
+  {
+    "id": "Q.2-5",
+    "question": "What is the id of the to-junction for the edge with id E12? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J12"
+  },
+  {
+    "id": "Q.2-6",
+    "question": "What is the id of the to-junction for the edge with id E13? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J17"
+  },
+  {
+    "id": "Q.2-7",
+    "question": "What is the id of the to-junction for the edge with id E14? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J18"
+  },
+  {
+    "id": "Q.2-8",
+    "question": "What is the id of the to-junction for the edge with id E15? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J19"
+  },
+  {
+    "id": "Q.2-9",
+    "question": "What is the id of the to-junction for the edge with id E16? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J4"
+  },
+  {
+    "id": "Q.2-10",
+    "question": "What is the id of the to-junction for the edge with id E17? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J18"
+  },
+  {
+    "id": "Q.2-11",
+    "question": "What is the id of the to-junction for the edge with id E18? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J10"
+  },
+  {
+    "id": "Q.2-12",
+    "question": "What is the id of the to-junction for the edge with id E19? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J13"
+  },
+  {
+    "id": "Q.2-13",
+    "question": "What is the id of the to-junction for the edge with id E2? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J3"
+  },
+  {
+    "id": "Q.2-14",
+    "question": "What is the id of the to-junction for the edge with id E20? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J17"
+  },
+  {
+    "id": "Q.2-15",
+    "question": "What is the id of the to-junction for the edge with id E21? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J12"
+  },
+  {
+    "id": "Q.2-16",
+    "question": "What is the id of the to-junction for the edge with id E3? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J4"
+  },
+  {
+    "id": "Q.2-17",
+    "question": "What is the id of the to-junction for the edge with id E4? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J5"
+  },
+  {
+    "id": "Q.2-18",
+    "question": "What is the id of the to-junction for the edge with id E5? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J7"
+  },
+  {
+    "id": "Q.2-19",
+    "question": "What is the id of the to-junction for the edge with id E6? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J8"
+  },
+  {
+    "id": "Q.2-20",
+    "question": "What is the id of the to-junction for the edge with id E7? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J9"
+  },
+  {
+    "id": "Q.2-21",
+    "question": "What is the id of the to-junction for the edge with id E8? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J10"
+  },
+  {
+    "id": "Q.2-22",
+    "question": "What is the id of the to-junction for the edge with id E9? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: J11"
+  }
+]

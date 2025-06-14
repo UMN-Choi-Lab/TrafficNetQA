@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.8-1",
+    "question": "List the ways where ramp metering could potentially be installed on the highway. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "from: ['18207974#1', '18208202#1']"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Q.2-1",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E0? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.2-2",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E1? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0']"
+  },
+  {
+    "id": "Q.2-3",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E10? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E21']"
+  },
+  {
+    "id": "Q.2-4",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E11? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E10', 'E19']"
+  },
+  {
+    "id": "Q.2-5",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E12? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.2-6",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E13? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.2-7",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E14? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E20']"
+  },
+  {
+    "id": "Q.2-8",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E15? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E14', 'E17']"
+  },
+  {
+    "id": "Q.2-9",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E16? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E20']"
+  },
+  {
+    "id": "Q.2-10",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E17? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5']"
+  },
+  {
+    "id": "Q.2-11",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E18? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E21']"
+  },
+  {
+    "id": "Q.2-12",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E19? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0']"
+  },
+  {
+    "id": "Q.2-13",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E2? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E1']"
+  },
+  {
+    "id": "Q.2-14",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E20? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E10', 'E19']"
+  },
+  {
+    "id": "Q.2-15",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E21? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E14', 'E17']"
+  },
+  {
+    "id": "Q.2-16",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E3? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E2']"
+  },
+  {
+    "id": "Q.2-17",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E4? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E16', 'E3']"
+  },
+  {
+    "id": "Q.2-18",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E5? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.2-19",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E6? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5']"
+  },
+  {
+    "id": "Q.2-20",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E7? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E6']"
+  },
+  {
+    "id": "Q.2-21",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E8? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E7']"
+  },
+  {
+    "id": "Q.2-22",
+    "question": "What are the edge id(s) that can come immediately before the edge with id E9? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E18', 'E8']"
+  }
+]

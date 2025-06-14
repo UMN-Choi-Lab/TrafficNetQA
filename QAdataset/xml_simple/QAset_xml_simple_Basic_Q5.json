@@ -1,0 +1,112 @@
+[
+  {
+    "id": "Q.5-1",
+    "question": "What is the road type of the edge with id E0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-2",
+    "question": "What is the road type of the edge with id E1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-3",
+    "question": "What is the road type of the edge with id E10? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-4",
+    "question": "What is the road type of the edge with id E11? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-5",
+    "question": "What is the road type of the edge with id E12? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-6",
+    "question": "What is the road type of the edge with id E13? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-7",
+    "question": "What is the road type of the edge with id E14? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-8",
+    "question": "What is the road type of the edge with id E15? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-9",
+    "question": "What is the road type of the edge with id E16? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-10",
+    "question": "What is the road type of the edge with id E17? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-11",
+    "question": "What is the road type of the edge with id E18? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-12",
+    "question": "What is the road type of the edge with id E19? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-13",
+    "question": "What is the road type of the edge with id E2? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-14",
+    "question": "What is the road type of the edge with id E20? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-15",
+    "question": "What is the road type of the edge with id E21? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "None"
+  },
+  {
+    "id": "Q.5-16",
+    "question": "What is the road type of the edge with id E3? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-17",
+    "question": "What is the road type of the edge with id E4? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-18",
+    "question": "What is the road type of the edge with id E5? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-19",
+    "question": "What is the road type of the edge with id E6? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-20",
+    "question": "What is the road type of the edge with id E7? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-21",
+    "question": "What is the road type of the edge with id E8? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-22",
+    "question": "What is the road type of the edge with id E9? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.2-1",
+    "question": "List the junctions where the number of lanes increases when moving from one edge to another. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  }
+]

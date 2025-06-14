@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.6-1",
+    "question": "How many lanes does the edge with id 1016174109 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-2",
+    "question": "How many lanes does the edge with id 1022537751 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-3",
+    "question": "How many lanes does the edge with id 1055385046 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-4",
+    "question": "How many lanes does the edge with id 1055385047 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-5",
+    "question": "How many lanes does the edge with id 1055385048 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-6",
+    "question": "How many lanes does the edge with id 1055385049 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-7",
+    "question": "How many lanes does the edge with id 1055612366 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-8",
+    "question": "How many lanes does the edge with id 1055612367#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-9",
+    "question": "How many lanes does the edge with id 1055612367#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-10",
+    "question": "How many lanes does the edge with id 1055612368#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-11",
+    "question": "How many lanes does the edge with id 1055612368#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-12",
+    "question": "How many lanes does the edge with id 1055612369 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-13",
+    "question": "How many lanes does the edge with id 1055612370 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-14",
+    "question": "How many lanes does the edge with id 1055612371 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "5"
+  },
+  {
+    "id": "Q.6-15",
+    "question": "How many lanes does the edge with id 1055614396 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-16",
+    "question": "How many lanes does the edge with id 1055614397 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-17",
+    "question": "How many lanes does the edge with id 1055614398#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-18",
+    "question": "How many lanes does the edge with id 1055614398#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-19",
+    "question": "How many lanes does the edge with id 1055614400#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-20",
+    "question": "How many lanes does the edge with id 1055614400#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-21",
+    "question": "How many lanes does the edge with id 1055614401 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-22",
+    "question": "How many lanes does the edge with id 1055614402 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-23",
+    "question": "How many lanes does the edge with id 1121975788 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-24",
+    "question": "How many lanes does the edge with id 118479814 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-25",
+    "question": "How many lanes does the edge with id 118479819 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-26",
+    "question": "How many lanes does the edge with id 118479856 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-27",
+    "question": "How many lanes does the edge with id 1202724756 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-28",
+    "question": "How many lanes does the edge with id 1344375759 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-29",
+    "question": "How many lanes does the edge with id 1344375761 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-30",
+    "question": "How many lanes does the edge with id 178546997#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-31",
+    "question": "How many lanes does the edge with id 178546997#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-32",
+    "question": "How many lanes does the edge with id 178547037 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-33",
+    "question": "How many lanes does the edge with id 18207686 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-34",
+    "question": "How many lanes does the edge with id 18207763 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-35",
+    "question": "How many lanes does the edge with id 18207974#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-36",
+    "question": "How many lanes does the edge with id 18207974#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-37",
+    "question": "How many lanes does the edge with id 18208202#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-38",
+    "question": "How many lanes does the edge with id 18208202#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-39",
+    "question": "How many lanes does the edge with id 290451895#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-40",
+    "question": "How many lanes does the edge with id 290451895#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-41",
+    "question": "How many lanes does the edge with id 290457949 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-42",
+    "question": "How many lanes does the edge with id 54725259#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-43",
+    "question": "How many lanes does the edge with id 54725259#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-44",
+    "question": "How many lanes does the edge with id 54725263 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-45",
+    "question": "How many lanes does the edge with id 54725268#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-46",
+    "question": "How many lanes does the edge with id 54725268#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-47",
+    "question": "How many lanes does the edge with id 54725269#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-48",
+    "question": "How many lanes does the edge with id 54725269#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-49",
+    "question": "How many lanes does the edge with id 635760563#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-50",
+    "question": "How many lanes does the edge with id 635760563#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-51",
+    "question": "How many lanes does the edge with id 637589289 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-52",
+    "question": "How many lanes does the edge with id 637589290#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-53",
+    "question": "How many lanes does the edge with id 637589290#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-54",
+    "question": "How many lanes does the edge with id 637589292 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-55",
+    "question": "How many lanes does the edge with id 637589293 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-56",
+    "question": "How many lanes does the edge with id 699832320 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "3"
+  },
+  {
+    "id": "Q.6-57",
+    "question": "How many lanes does the edge with id 739432137 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-58",
+    "question": "How many lanes does the edge with id 739432138 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-59",
+    "question": "How many lanes does the edge with id 76535448 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-60",
+    "question": "How many lanes does the edge with id 76535451 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-61",
+    "question": "How many lanes does the edge with id 76535453 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "1"
+  },
+  {
+    "id": "Q.6-62",
+    "question": "How many lanes does the edge with id 799590949 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-63",
+    "question": "How many lanes does the edge with id 925592808 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-64",
+    "question": "How many lanes does the edge with id 925592809 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-65",
+    "question": "How many lanes does the edge with id 990458792 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "4"
+  },
+  {
+    "id": "Q.6-66",
+    "question": "How many lanes does the edge with id 990458793#0 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "5"
+  },
+  {
+    "id": "Q.6-67",
+    "question": "How many lanes does the edge with id 990458793#1 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "5"
+  },
+  {
+    "id": "Q.6-68",
+    "question": "How many lanes does the edge with id 991133895 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  },
+  {
+    "id": "Q.6-69",
+    "question": "How many lanes does the edge with id 998766909 have? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "2"
+  }
+]

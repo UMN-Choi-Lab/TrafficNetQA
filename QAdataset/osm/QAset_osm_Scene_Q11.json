@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.11-1",
+    "question": "List the nodes that can be considered as source and sink for vehicle generation based on the terminal ends of roads in the network. <Answer> source: [Your answer, ...], sink: [Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "source: ['902014822', '688976791', '716319398', '902014940', '902015139', '902015203'], sink: ['688976788', '877830030', '902014909', '716319431']"
+  }
+]

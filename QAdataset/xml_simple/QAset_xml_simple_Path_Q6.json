@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q.6-1",
+    "question": "Assuming the edge with id E19 is removed, what is the shortest path (by length) from the junction with id J0 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-2",
+    "question": "Assuming the edge with id E20 is removed, what is the shortest path (by length) from the junction with id J0 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-3",
+    "question": "Assuming the edge with id E2 is removed, what is the shortest path (by length) from the junction with id J0 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0', 'E19', 'E20', 'E16', 'E4']"
+  },
+  {
+    "id": "Q.6-4",
+    "question": "Assuming the edge with id E21 is removed, what is the shortest path (by length) from the junction with id J0 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-5",
+    "question": "Assuming the edge with id E10 is removed, what is the shortest path (by length) from the junction with id J15 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-6",
+    "question": "Assuming the edge with id E14 is removed, what is the shortest path (by length) from the junction with id J15 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-7",
+    "question": "Assuming the edge with id E20 is removed, what is the shortest path (by length) from the junction with id J15 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-8",
+    "question": "Assuming the edge with id E18 is removed, what is the shortest path (by length) from the junction with id J15 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-9",
+    "question": "Assuming the edge with id E21 is removed, what is the shortest path (by length) from the junction with id J16 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-10",
+    "question": "Assuming the edge with id E14 is removed, what is the shortest path (by length) from the junction with id J16 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-11",
+    "question": "Assuming the edge with id E16 is removed, what is the shortest path (by length) from the junction with id J16 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-12",
+    "question": "Assuming the edge with id E14 is removed, what is the shortest path (by length) from the junction with id J16 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-13",
+    "question": "Assuming the edge with id E10 is removed, what is the shortest path (by length) from the junction with id J6 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-14",
+    "question": "Assuming the edge with id E17 is removed, what is the shortest path (by length) from the junction with id J6 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-15",
+    "question": "Assuming the edge with id E21 is removed, what is the shortest path (by length) from the junction with id J6 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "[]"
+  },
+  {
+    "id": "Q.6-16",
+    "question": "Assuming the edge with id E6 is removed, what is the shortest path (by length) from the junction with id J6 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5', 'E17', 'E21', 'E18', 'E9']"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q.3-1",
+    "question": "What is the shortest path (by length) from the junction with id J0 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0', 'E19', 'E11']"
+  },
+  {
+    "id": "Q.3-2",
+    "question": "What is the shortest path (by length) from the junction with id J0 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0', 'E19', 'E20', 'E14', 'E15']"
+  },
+  {
+    "id": "Q.3-3",
+    "question": "What is the shortest path (by length) from the junction with id J0 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0', 'E1', 'E2', 'E3', 'E4']"
+  },
+  {
+    "id": "Q.3-4",
+    "question": "What is the shortest path (by length) from the junction with id J0 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E0', 'E19', 'E20', 'E14', 'E21', 'E18', 'E9']"
+  },
+  {
+    "id": "Q.3-5",
+    "question": "What is the shortest path (by length) from the junction with id J15 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E10', 'E11']"
+  },
+  {
+    "id": "Q.3-6",
+    "question": "What is the shortest path (by length) from the junction with id J15 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E10', 'E20', 'E14', 'E15']"
+  },
+  {
+    "id": "Q.3-7",
+    "question": "What is the shortest path (by length) from the junction with id J15 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E10', 'E20', 'E16', 'E4']"
+  },
+  {
+    "id": "Q.3-8",
+    "question": "What is the shortest path (by length) from the junction with id J15 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E12', 'E18', 'E9']"
+  },
+  {
+    "id": "Q.3-9",
+    "question": "What is the shortest path (by length) from the junction with id J16 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E14', 'E21', 'E10', 'E11']"
+  },
+  {
+    "id": "Q.3-10",
+    "question": "What is the shortest path (by length) from the junction with id J16 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E14', 'E15']"
+  },
+  {
+    "id": "Q.3-11",
+    "question": "What is the shortest path (by length) from the junction with id J16 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E16', 'E4']"
+  },
+  {
+    "id": "Q.3-12",
+    "question": "What is the shortest path (by length) from the junction with id J16 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E13', 'E14', 'E21', 'E18', 'E9']"
+  },
+  {
+    "id": "Q.3-13",
+    "question": "What is the shortest path (by length) from the junction with id J6 to the junction with id J14? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5', 'E17', 'E21', 'E10', 'E11']"
+  },
+  {
+    "id": "Q.3-14",
+    "question": "What is the shortest path (by length) from the junction with id J6 to the junction with id J19? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5', 'E17', 'E15']"
+  },
+  {
+    "id": "Q.3-15",
+    "question": "What is the shortest path (by length) from the junction with id J6 to the junction with id J5? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5', 'E17', 'E21', 'E10', 'E20', 'E16', 'E4']"
+  },
+  {
+    "id": "Q.3-16",
+    "question": "What is the shortest path (by length) from the junction with id J6 to the junction with id J11? List the edges in order. <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E5', 'E6', 'E7', 'E8', 'E9']"
+  }
+]

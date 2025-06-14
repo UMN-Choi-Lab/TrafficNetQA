@@ -1,0 +1,102 @@
+[
+  {
+    "id": "Q.7-1",
+    "question": "What are the x, y coordinates of the junction with id J0? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 2.82, y: 124.51"
+  },
+  {
+    "id": "Q.7-2",
+    "question": "What are the x, y coordinates of the junction with id J1? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 87.31, y: 125.07"
+  },
+  {
+    "id": "Q.7-3",
+    "question": "What are the x, y coordinates of the junction with id J10? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 85.88, y: 135.67"
+  },
+  {
+    "id": "Q.7-4",
+    "question": "What are the x, y coordinates of the junction with id J11? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 0.00, y: 135.12"
+  },
+  {
+    "id": "Q.7-5",
+    "question": "What are the x, y coordinates of the junction with id J12? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 214.43, y: 196.38"
+  },
+  {
+    "id": "Q.7-6",
+    "question": "What are the x, y coordinates of the junction with id J13? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 219.36, y: 85.89"
+  },
+  {
+    "id": "Q.7-7",
+    "question": "What are the x, y coordinates of the junction with id J14? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 221.54, y: 1.65"
+  },
+  {
+    "id": "Q.7-8",
+    "question": "What are the x, y coordinates of the junction with id J15? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 211.70, y: 236.86"
+  },
+  {
+    "id": "Q.7-9",
+    "question": "What are the x, y coordinates of the junction with id J16? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 231.94, y: 0.00"
+  },
+  {
+    "id": "Q.7-10",
+    "question": "What are the x, y coordinates of the junction with id J17? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 229.20, y: 87.53"
+  },
+  {
+    "id": "Q.7-11",
+    "question": "What are the x, y coordinates of the junction with id J18? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 225.92, y: 196.93"
+  },
+  {
+    "id": "Q.7-12",
+    "question": "What are the x, y coordinates of the junction with id J19? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 224.83, y: 236.86"
+  },
+  {
+    "id": "Q.7-13",
+    "question": "What are the x, y coordinates of the junction with id J2? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 180.23, y: 127.04"
+  },
+  {
+    "id": "Q.7-14",
+    "question": "What are the x, y coordinates of the junction with id J3? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 271.74, y: 129.28"
+  },
+  {
+    "id": "Q.7-15",
+    "question": "What are the x, y coordinates of the junction with id J4? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 346.47, y: 132.52"
+  },
+  {
+    "id": "Q.7-16",
+    "question": "What are the x, y coordinates of the junction with id J5? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 435.43, y: 131.84"
+  },
+  {
+    "id": "Q.7-17",
+    "question": "What are the x, y coordinates of the junction with id J6? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 435.98, y: 144.96"
+  },
+  {
+    "id": "Q.7-18",
+    "question": "What are the x, y coordinates of the junction with id J7? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 342.98, y: 143.32"
+  },
+  {
+    "id": "Q.7-19",
+    "question": "What are the x, y coordinates of the junction with id J8? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 268.59, y: 140.59"
+  },
+  {
+    "id": "Q.7-20",
+    "question": "What are the x, y coordinates of the junction with id J9? <Answer> x: [Your answer], y: [Your answer]. Do not add any explanation.",
+    "ground_truth": "x: 179.42, y: 140.04"
+  }
+]

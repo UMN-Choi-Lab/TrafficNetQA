@@ -1,0 +1,7 @@
+[
+  {
+    "id": "Q.3-1",
+    "question": "Considering the entire network, which edges can be regarded as highway entrances — that is, the edges immediately before entering a highway? <Answer> [Your answer, Your answer, ...]. Do not add any explanation.",
+    "ground_truth": "['E18', 'E16']"
+  }
+]

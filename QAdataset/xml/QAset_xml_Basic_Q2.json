@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.2-1",
+    "question": "What is the id of the to-junction for the edge with id 1016174109? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1657579450"
+  },
+  {
+    "id": "Q.2-2",
+    "question": "What is the id of the to-junction for the edge with id 1022537751? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1657588646"
+  },
+  {
+    "id": "Q.2-3",
+    "question": "What is the id of the to-junction for the edge with id 1055385046? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1810110100"
+  },
+  {
+    "id": "Q.2-4",
+    "question": "What is the id of the to-junction for the edge with id 1055385047? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976794"
+  },
+  {
+    "id": "Q.2-5",
+    "question": "What is the id of the to-junction for the edge with id 1055385048? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976788"
+  },
+  {
+    "id": "Q.2-6",
+    "question": "What is the id of the to-junction for the edge with id 1055385049? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9697606397"
+  },
+  {
+    "id": "Q.2-7",
+    "question": "What is the id of the to-junction for the edge with id 1055612366? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699833968"
+  },
+  {
+    "id": "Q.2-8",
+    "question": "What is the id of the to-junction for the edge with id 1055612367#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 7630060389"
+  },
+  {
+    "id": "Q.2-9",
+    "question": "What is the id of the to-junction for the edge with id 1055612367#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976826"
+  },
+  {
+    "id": "Q.2-10",
+    "question": "What is the id of the to-junction for the edge with id 1055612368#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 7630060388"
+  },
+  {
+    "id": "Q.2-11",
+    "question": "What is the id of the to-junction for the edge with id 1055612368#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699833969"
+  },
+  {
+    "id": "Q.2-12",
+    "question": "What is the id of the to-junction for the edge with id 1055612369? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699833970"
+  },
+  {
+    "id": "Q.2-13",
+    "question": "What is the id of the to-junction for the edge with id 1055612370? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699833971"
+  },
+  {
+    "id": "Q.2-14",
+    "question": "What is the id of the to-junction for the edge with id 1055612371? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976813"
+  },
+  {
+    "id": "Q.2-15",
+    "question": "What is the id of the to-junction for the edge with id 1055614396? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1657588659"
+  },
+  {
+    "id": "Q.2-16",
+    "question": "What is the id of the to-junction for the edge with id 1055614397? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 8864476450"
+  },
+  {
+    "id": "Q.2-17",
+    "question": "What is the id of the to-junction for the edge with id 1055614398#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 7630060387"
+  },
+  {
+    "id": "Q.2-18",
+    "question": "What is the id of the to-junction for the edge with id 1055614398#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976829"
+  },
+  {
+    "id": "Q.2-19",
+    "question": "What is the id of the to-junction for the edge with id 1055614400#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 7630060386"
+  },
+  {
+    "id": "Q.2-20",
+    "question": "What is the id of the to-junction for the edge with id 1055614400#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976833"
+  },
+  {
+    "id": "Q.2-21",
+    "question": "What is the id of the to-junction for the edge with id 1055614401? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699838342"
+  },
+  {
+    "id": "Q.2-22",
+    "question": "What is the id of the to-junction for the edge with id 1055614402? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9699838343"
+  },
+  {
+    "id": "Q.2-23",
+    "question": "What is the id of the to-junction for the edge with id 1121975788? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 187851417"
+  },
+  {
+    "id": "Q.2-24",
+    "question": "What is the id of the to-junction for the edge with id 118479814? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 877830030"
+  },
+  {
+    "id": "Q.2-25",
+    "question": "What is the id of the to-junction for the edge with id 118479819? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014785"
+  },
+  {
+    "id": "Q.2-26",
+    "question": "What is the id of the to-junction for the edge with id 118479856? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014909"
+  },
+  {
+    "id": "Q.2-27",
+    "question": "What is the id of the to-junction for the edge with id 1202724756? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 3063751617"
+  },
+  {
+    "id": "Q.2-28",
+    "question": "What is the id of the to-junction for the edge with id 1344375759? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12437267834"
+  },
+  {
+    "id": "Q.2-29",
+    "question": "What is the id of the to-junction for the edge with id 1344375761? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976799"
+  },
+  {
+    "id": "Q.2-30",
+    "question": "What is the id of the to-junction for the edge with id 178546997#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169418"
+  },
+  {
+    "id": "Q.2-31",
+    "question": "What is the id of the to-junction for the edge with id 178546997#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976809"
+  },
+  {
+    "id": "Q.2-32",
+    "question": "What is the id of the to-junction for the edge with id 178547037? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1657588647"
+  },
+  {
+    "id": "Q.2-33",
+    "question": "What is the id of the to-junction for the edge with id 18207686? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9157617655"
+  },
+  {
+    "id": "Q.2-34",
+    "question": "What is the id of the to-junction for the edge with id 18207763? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9221498906"
+  },
+  {
+    "id": "Q.2-35",
+    "question": "What is the id of the to-junction for the edge with id 18207974#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1888749448"
+  },
+  {
+    "id": "Q.2-36",
+    "question": "What is the id of the to-junction for the edge with id 18207974#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014909"
+  },
+  {
+    "id": "Q.2-37",
+    "question": "What is the id of the to-junction for the edge with id 18208202#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014776"
+  },
+  {
+    "id": "Q.2-38",
+    "question": "What is the id of the to-junction for the edge with id 18208202#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014785"
+  },
+  {
+    "id": "Q.2-39",
+    "question": "What is the id of the to-junction for the edge with id 290451895#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 3394767254"
+  },
+  {
+    "id": "Q.2-40",
+    "question": "What is the id of the to-junction for the edge with id 290451895#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976831"
+  },
+  {
+    "id": "Q.2-41",
+    "question": "What is the id of the to-junction for the edge with id 290457949? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976797"
+  },
+  {
+    "id": "Q.2-42",
+    "question": "What is the id of the to-junction for the edge with id 54725259#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 3394767255"
+  },
+  {
+    "id": "Q.2-43",
+    "question": "What is the id of the to-junction for the edge with id 54725259#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 716319431"
+  },
+  {
+    "id": "Q.2-44",
+    "question": "What is the id of the to-junction for the edge with id 54725263? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976809"
+  },
+  {
+    "id": "Q.2-45",
+    "question": "What is the id of the to-junction for the edge with id 54725268#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169417"
+  },
+  {
+    "id": "Q.2-46",
+    "question": "What is the id of the to-junction for the edge with id 54725268#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976810"
+  },
+  {
+    "id": "Q.2-47",
+    "question": "What is the id of the to-junction for the edge with id 54725269#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169415"
+  },
+  {
+    "id": "Q.2-48",
+    "question": "What is the id of the to-junction for the edge with id 54725269#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976822"
+  },
+  {
+    "id": "Q.2-49",
+    "question": "What is the id of the to-junction for the edge with id 635760563#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169413"
+  },
+  {
+    "id": "Q.2-50",
+    "question": "What is the id of the to-junction for the edge with id 635760563#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976816"
+  },
+  {
+    "id": "Q.2-51",
+    "question": "What is the id of the to-junction for the edge with id 637589289? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976820"
+  },
+  {
+    "id": "Q.2-52",
+    "question": "What is the id of the to-junction for the edge with id 637589290#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169414"
+  },
+  {
+    "id": "Q.2-53",
+    "question": "What is the id of the to-junction for the edge with id 637589290#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 187849253"
+  },
+  {
+    "id": "Q.2-54",
+    "question": "What is the id of the to-junction for the edge with id 637589292? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 3063751616"
+  },
+  {
+    "id": "Q.2-55",
+    "question": "What is the id of the to-junction for the edge with id 637589293? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 3749262226"
+  },
+  {
+    "id": "Q.2-56",
+    "question": "What is the id of the to-junction for the edge with id 699832320? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 8864476444"
+  },
+  {
+    "id": "Q.2-57",
+    "question": "What is the id of the to-junction for the edge with id 739432137? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976796"
+  },
+  {
+    "id": "Q.2-58",
+    "question": "What is the id of the to-junction for the edge with id 739432138? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976803"
+  },
+  {
+    "id": "Q.2-59",
+    "question": "What is the id of the to-junction for the edge with id 76535448? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014953"
+  },
+  {
+    "id": "Q.2-60",
+    "question": "What is the id of the to-junction for the edge with id 76535451? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 902014776"
+  },
+  {
+    "id": "Q.2-61",
+    "question": "What is the id of the to-junction for the edge with id 76535453? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1888749448"
+  },
+  {
+    "id": "Q.2-62",
+    "question": "What is the id of the to-junction for the edge with id 799590949? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9697606396"
+  },
+  {
+    "id": "Q.2-63",
+    "question": "What is the id of the to-junction for the edge with id 925592808? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 187849253"
+  },
+  {
+    "id": "Q.2-64",
+    "question": "What is the id of the to-junction for the edge with id 925592809? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976816"
+  },
+  {
+    "id": "Q.2-65",
+    "question": "What is the id of the to-junction for the edge with id 990458792? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 9152290363"
+  },
+  {
+    "id": "Q.2-66",
+    "question": "What is the id of the to-junction for the edge with id 990458793#0? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 12772169416"
+  },
+  {
+    "id": "Q.2-67",
+    "question": "What is the id of the to-junction for the edge with id 990458793#1? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 688976803"
+  },
+  {
+    "id": "Q.2-68",
+    "question": "What is the id of the to-junction for the edge with id 991133895? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 1888749458"
+  },
+  {
+    "id": "Q.2-69",
+    "question": "What is the id of the to-junction for the edge with id 998766909? <Answer> to: [Your answer]. Do not add any explanation.",
+    "ground_truth": "to: 187849887"
+  }
+]

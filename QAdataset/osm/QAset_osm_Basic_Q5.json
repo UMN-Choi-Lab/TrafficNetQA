@@ -1,0 +1,347 @@
+[
+  {
+    "id": "Q.5-1",
+    "question": "What is the road type of the way with id 1016174109? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-2",
+    "question": "What is the road type of the way with id 1022537751? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-3",
+    "question": "What is the road type of the way with id 1055385046? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-4",
+    "question": "What is the road type of the way with id 1055385047? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-5",
+    "question": "What is the road type of the way with id 1055385048? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-6",
+    "question": "What is the road type of the way with id 1055385049? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-7",
+    "question": "What is the road type of the way with id 1055612366? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-8",
+    "question": "What is the road type of the way with id 1055612367#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-9",
+    "question": "What is the road type of the way with id 1055612367#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-10",
+    "question": "What is the road type of the way with id 1055612368#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-11",
+    "question": "What is the road type of the way with id 1055612368#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-12",
+    "question": "What is the road type of the way with id 1055612369? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-13",
+    "question": "What is the road type of the way with id 1055612370? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-14",
+    "question": "What is the road type of the way with id 1055612371? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-15",
+    "question": "What is the road type of the way with id 1055614396? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-16",
+    "question": "What is the road type of the way with id 1055614397? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-17",
+    "question": "What is the road type of the way with id 1055614398#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-18",
+    "question": "What is the road type of the way with id 1055614398#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-19",
+    "question": "What is the road type of the way with id 1055614400#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-20",
+    "question": "What is the road type of the way with id 1055614400#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-21",
+    "question": "What is the road type of the way with id 1055614401? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-22",
+    "question": "What is the road type of the way with id 1055614402? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-23",
+    "question": "What is the road type of the way with id 1121975788? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-24",
+    "question": "What is the road type of the way with id 118479814? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-25",
+    "question": "What is the road type of the way with id 118479819? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-26",
+    "question": "What is the road type of the way with id 118479856? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-27",
+    "question": "What is the road type of the way with id 1202724756? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-28",
+    "question": "What is the road type of the way with id 1344375759? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-29",
+    "question": "What is the road type of the way with id 1344375761? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-30",
+    "question": "What is the road type of the way with id 178546997#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-31",
+    "question": "What is the road type of the way with id 178546997#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-32",
+    "question": "What is the road type of the way with id 178547037? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-33",
+    "question": "What is the road type of the way with id 18207686? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-34",
+    "question": "What is the road type of the way with id 18207763? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-35",
+    "question": "What is the road type of the way with id 18207974#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-36",
+    "question": "What is the road type of the way with id 18207974#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-37",
+    "question": "What is the road type of the way with id 18208202#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-38",
+    "question": "What is the road type of the way with id 18208202#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-39",
+    "question": "What is the road type of the way with id 290451895#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-40",
+    "question": "What is the road type of the way with id 290451895#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-41",
+    "question": "What is the road type of the way with id 290457949? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-42",
+    "question": "What is the road type of the way with id 54725259#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-43",
+    "question": "What is the road type of the way with id 54725259#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-44",
+    "question": "What is the road type of the way with id 54725263? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-45",
+    "question": "What is the road type of the way with id 54725268#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-46",
+    "question": "What is the road type of the way with id 54725268#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-47",
+    "question": "What is the road type of the way with id 54725269#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-48",
+    "question": "What is the road type of the way with id 54725269#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-49",
+    "question": "What is the road type of the way with id 635760563#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-50",
+    "question": "What is the road type of the way with id 635760563#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-51",
+    "question": "What is the road type of the way with id 637589289? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-52",
+    "question": "What is the road type of the way with id 637589290#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-53",
+    "question": "What is the road type of the way with id 637589290#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-54",
+    "question": "What is the road type of the way with id 637589292? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-55",
+    "question": "What is the road type of the way with id 637589293? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-56",
+    "question": "What is the road type of the way with id 699832320? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-57",
+    "question": "What is the road type of the way with id 739432137? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-58",
+    "question": "What is the road type of the way with id 739432138? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-59",
+    "question": "What is the road type of the way with id 76535448? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway"
+  },
+  {
+    "id": "Q.5-60",
+    "question": "What is the road type of the way with id 76535451? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-61",
+    "question": "What is the road type of the way with id 76535453? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-62",
+    "question": "What is the road type of the way with id 799590949? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-63",
+    "question": "What is the road type of the way with id 925592808? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-64",
+    "question": "What is the road type of the way with id 925592809? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-65",
+    "question": "What is the road type of the way with id 990458792? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-66",
+    "question": "What is the road type of the way with id 990458793#0? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-67",
+    "question": "What is the road type of the way with id 990458793#1? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.primary"
+  },
+  {
+    "id": "Q.5-68",
+    "question": "What is the road type of the way with id 991133895? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  },
+  {
+    "id": "Q.5-69",
+    "question": "What is the road type of the way with id 998766909? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "highway.motorway_link"
+  }
+]

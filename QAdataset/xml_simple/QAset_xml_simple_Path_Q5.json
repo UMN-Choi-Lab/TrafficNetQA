@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Q.5-1",
+    "question": "What is the shortest path distance (by length) from the junction with id J0 to the junction with id J14? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "308.39"
+  },
+  {
+    "id": "Q.5-2",
+    "question": "What is the shortest path distance (by length) from the junction with id J0 to the junction with id J19? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "383.49"
+  },
+  {
+    "id": "Q.5-3",
+    "question": "What is the shortest path distance (by length) from the junction with id J0 to the junction with id J5? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "447.01"
+  },
+  {
+    "id": "Q.5-4",
+    "question": "What is the shortest path distance (by length) from the junction with id J0 to the junction with id J11? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "584.72"
+  },
+  {
+    "id": "Q.5-5",
+    "question": "What is the shortest path distance (by length) from the junction with id J15 to the junction with id J14? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "235.44"
+  },
+  {
+    "id": "Q.5-6",
+    "question": "What is the shortest path distance (by length) from the junction with id J15 to the junction with id J19? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "310.54"
+  },
+  {
+    "id": "Q.5-7",
+    "question": "What is the shortest path distance (by length) from the junction with id J15 to the junction with id J5? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "377.33"
+  },
+  {
+    "id": "Q.5-8",
+    "question": "What is the shortest path distance (by length) from the junction with id J15 to the junction with id J11? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "270.24"
+  },
+  {
+    "id": "Q.5-9",
+    "question": "What is the shortest path distance (by length) from the junction with id J16 to the junction with id J14? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "403.39"
+  },
+  {
+    "id": "Q.5-10",
+    "question": "What is the shortest path distance (by length) from the junction with id J16 to the junction with id J19? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "236.96"
+  },
+  {
+    "id": "Q.5-11",
+    "question": "What is the shortest path distance (by length) from the junction with id J16 to the junction with id J5? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "303.75"
+  },
+  {
+    "id": "Q.5-12",
+    "question": "What is the shortest path distance (by length) from the junction with id J16 to the junction with id J11? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "438.19"
+  },
+  {
+    "id": "Q.5-13",
+    "question": "What is the shortest path distance (by length) from the junction with id J6 to the junction with id J14? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "429.9"
+  },
+  {
+    "id": "Q.5-14",
+    "question": "What is the shortest path distance (by length) from the junction with id J6 to the junction with id J19? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "263.47"
+  },
+  {
+    "id": "Q.5-15",
+    "question": "What is the shortest path distance (by length) from the junction with id J6 to the junction with id J5? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "571.79"
+  },
+  {
+    "id": "Q.5-16",
+    "question": "What is the shortest path distance (by length) from the junction with id J6 to the junction with id J11? <Answer> [Your answer]. Do not add any explanation.",
+    "ground_truth": "452.46"
+  }
+]
